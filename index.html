@@ -1,0 +1,147 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="description" content="Portal de noticias de José Arias — Periodismo riguroso, investigación independiente y cobertura de actualidad venezolana e internacional." />
+  <meta name="author" content="José Arias" />
+  <title>José Arias | Portal de Noticias</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;600;700;900&family=Inter:wght@300;400;500;600&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+
+  <!-- ===== TOP BAR ===== -->
+  <div class="topbar" id="topbar">
+    <div class="container topbar-inner">
+      <span class="topbar-date" id="topbar-date"></span>
+      <span class="topbar-tagline">Periodismo riguroso · Venezuela e Internacional</span>
+    </div>
+  </div>
+
+  <!-- ===== HEADER ===== -->
+  <header class="site-header" id="site-header">
+    <div class="container header-inner">
+      <div class="header-brand">
+        <a href="#" class="brand-link">
+          <span class="brand-initials">JA</span>
+          <div class="brand-text">
+            <span class="brand-name">José Arias</span>
+            <span class="brand-sub">Portal de Noticias</span>
+          </div>
+        </a>
+      </div>
+      <nav class="main-nav" id="main-nav">
+        <a href="#" class="nav-link active" data-filter="all">Inicio</a>
+        <a href="#" class="nav-link" data-filter="Venezuela">Venezuela</a>
+        <a href="#" class="nav-link" data-filter="Internacional">Internacional</a>
+        <a href="#" class="nav-link" data-filter="Deportes">Deportes</a>
+        <a href="#" class="nav-link" data-filter="Cultura">Cultura</a>
+      </nav>
+      <button class="menu-toggle" id="menu-toggle" aria-label="Menú">
+        <span></span><span></span><span></span>
+      </button>
+    </div>
+  </header>
+
+  <!-- ===== HERO ===== -->
+  <section class="hero" id="hero">
+    <div class="container hero-inner">
+      <article class="hero-featured" id="hero-card">
+        <!-- Populated by JS -->
+      </article>
+      <aside class="hero-sidebar">
+        <h3 class="sidebar-title">Últimas Noticias</h3>
+        <div class="latest-list" id="latest-list">
+          <!-- Populated by JS -->
+        </div>
+      </aside>
+    </div>
+  </section>
+
+  <!-- ===== BREAKING TICKER ===== -->
+  <div class="ticker-wrap" aria-label="Titulares en vivo">
+    <div class="ticker-label">TITULARES</div>
+    <div class="ticker-track" id="ticker-track">
+      <!-- Populated by JS -->
+    </div>
+  </div>
+
+  <!-- ===== MAIN CONTENT ===== -->
+  <main class="main-content" id="main-content">
+    <div class="container main-grid">
+      <!-- Articles Grid -->
+      <section class="articles-section">
+        <div class="section-header">
+          <h2 class="section-title" id="section-title">Todas las Noticias</h2>
+          <div class="article-count" id="article-count"></div>
+        </div>
+        <div class="articles-grid" id="articles-grid">
+          <!-- Populated by JS -->
+        </div>
+      </section>
+
+      <!-- Sidebar -->
+      <aside class="content-sidebar">
+
+        <!-- Author Card -->
+        <div class="widget author-widget">
+          <div class="author-avatar">JA</div>
+          <h3 class="author-name">José Arias</h3>
+          <p class="author-desc">Estudiante de Comunicación Social en la Universidad Yacambú, interesado en el periodismo digital y la investigación.</p>
+          <div class="author-social">
+            <a href="#" class="social-link" aria-label="Twitter">𝕏</a>
+            <a href="#" class="social-link" aria-label="Instagram">◈</a>
+            <a href="#" class="social-link" aria-label="Email">✉</a>
+          </div>
+        </div>
+
+        <!-- Categories Widget -->
+        <div class="widget categories-widget">
+          <h4 class="widget-title">Categorías</h4>
+          <ul class="categories-list" id="categories-list">
+            <!-- Populated by JS -->
+          </ul>
+        </div>
+
+        <!-- Quote Widget -->
+        <div class="widget quote-widget">
+          <blockquote class="editorial-quote">
+            "El periodismo no es una profesión, es una misión. Cada línea escrita debe ser un acto de responsabilidad."
+          </blockquote>
+          <cite>— José Arias</cite>
+        </div>
+
+      </aside>
+    </div>
+  </main>
+
+  <!-- ===== MODAL ===== -->
+  <div class="modal-overlay" id="modal-overlay" role="dialog" aria-modal="true" aria-labelledby="modal-title">
+    <div class="modal-container" id="modal-container">
+      <button class="modal-close" id="modal-close" aria-label="Cerrar">&times;</button>
+      <div class="modal-body" id="modal-body">
+        <!-- Populated by JS -->
+      </div>
+    </div>
+  </div>
+
+  <!-- ===== FOOTER ===== -->
+  <footer class="site-footer">
+    <div class="container footer-inner">
+      <div class="footer-brand">
+        <span class="brand-initials sm">JA</span>
+        <div>
+          <p class="footer-name">José Arias</p>
+          <p class="footer-tagline">Portal de Noticias Independiente</p>
+        </div>
+      </div>
+      <p class="footer-copy">&copy; <span id="footer-year"></span> José Arias. Todos los derechos reservados.</p>
+    </div>
+  </footer>
+
+  <script src="app.js"></script>
+</body>
+</html>
