@@ -25,7 +25,7 @@ const NEWS = [
 `,
     image: "Argentina.jpeg",
     date: "junio, 2026",
-    featured: false
+    featured: true
   },
   {
     id: 2,
@@ -45,7 +45,7 @@ const NEWS = [
 `,
     image: "terremoto.jpeg",
     date: "14 de julio, 2026",
-    featured: true
+    featured: false
   },
   {
     id: 3,
