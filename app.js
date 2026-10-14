@@ -135,7 +135,7 @@ const NEWS = [
    {
 	id: 8,
 	slug: "entrevista-cancer-de-mama",
-	category: "salud",
+	category: "Venezuela",
 	title: "el cancer de mama es curable en 99 % si se detecta a tiempo: Dra. Carolina Martinez",
 	excerpt: "Dra. Carolina Martínez: El diagnóstico oportuno rescata el 99 % de casos por canccer de mama",
 	body: `<p>En medio de la campaña del Mes Rosa, orientada a la concientización sobre el cáncer de mama, la brecha en los tiempos de detección sigue siendo el factor determinante entre un tratamiento exitoso y un desenlace fatal. Frente a este panorama, asumir los controles de salud y acudir a tiempo al especialista se consolida como la opción más efectiva para salvar vidas. </p>
