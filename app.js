@@ -115,7 +115,7 @@ const NEWS = [
     date: "1 de julio, 2026",
     featured: false
   }
-	}
+	{
     id: 7,
     slug: "cortes-electricos-lara",
     category: "Venezuela",
@@ -136,9 +136,9 @@ const NEWS = [
 	id: 8,
 	slug: "entrevista-cancer-de-mama"
 	category: "salud"
-	title: ""el cancer de mama es curable en 99 % si se detecta a tiempo": Dra. Carolina Martinez"
-	excerpt: "Dra. Carolina Martínez: "El diagnóstico oportuno rescata el 99 % de casos por canccer de mama""
-	body: <p>En medio de la campaña del Mes Rosa, orientada a la concientización sobre el cáncer de mama, la brecha en los tiempos de detección sigue siendo el factor determinante entre un tratamiento exitoso y un desenlace fatal. Frente a este panorama, asumir los controles de salud y acudir a tiempo al especialista se consolida como la opción más efectiva para salvar vidas. </p>
+	title: "el cancer de mama es curable en 99 % si se detecta a tiempo": Dra. Carolina Martinez"
+	excerpt: "Dra. Carolina Martínez: El diagnóstico oportuno rescata el 99 % de casos por canccer de mama"
+	body: `<p>En medio de la campaña del Mes Rosa, orientada a la concientización sobre el cáncer de mama, la brecha en los tiempos de detección sigue siendo el factor determinante entre un tratamiento exitoso y un desenlace fatal. Frente a este panorama, asumir los controles de salud y acudir a tiempo al especialista se consolida como la opción más efectiva para salvar vidas. </p>
 <p>Para profundizar en las pautas de prevención y en la realidad de esta enfermedad en la región, la Dra. Carolina Martínez, médica oncóloga de la Clínica Razetti, con una amplia trayectoria en el tratamiento a pacientes, diagnóstico especializado y abordaje terapéutico de patologías mamarias en el estado Lara, analiza los puntos clave para abordar esta afección: </p>
 <h2>— Las estadísticas médicas reflejan una diferencia drástica en los pronósticos según el momento del diagnóstico. ¿Cuál es la probabilidad de curación cuando la enfermedad se detecta a tiempo? </h2> 	
 <p>— La detección oportuna cambia drásticamente el pronóstico. Cuando el cuadro se detecta en sus fases tempranas, las probabilidades de curación son de un 99%. Sin embargo, en fases avanzadas o cuando se presentan metástasis a órganos vecinos, la supervivencia disminuye de manera considerable. Por eso, la prevención no consiste en actuar con miedo, sino en asumir el control de la salud con responsabilidad. </p>
@@ -153,7 +153,7 @@ const NEWS = [
 <p> — En presencia de antecedentes de primer grado, es decir, madre, hermanas o hijas con diagnóstico de cáncer de mama u ovario, el protocolo se adelanta. En estos casos, se recomienda iniciar los estudios de detección temprana o la evaluación genómica a partir de los 30 años, o diez años antes de la edad en que se detectó la patología en el familiar más joven. </p>
 <h2> — ¿Qué estudios de detección temprana están indicados según la edad de la paciente? </h2>
 <p>— En mujeres menores de 40 años, el método de elección es la ecografía mamaria, debido a la mayor densidad del tejido glandular a esa edad. A partir de los 40 años, la mamografía anual se convierte en el estudio estándar e indispensable, el cual puede complementarse con ecografía según el criterio del especialista. </p>
-<p>En un mes donde todo se viste de rosa, la verdadera diferencia la hace el tiempo. Más allá de los lazos y las campañas, salvar vidas empieza por perder el miedo, escuchar las señales del cuerpo y no esperar a que algo duela para ir al médico. Al final, hacerse un chequeo temprano no es solo un trámite de salud, es la oportunidad real de asegurar un futuro. </p>
+<p>En un mes donde todo se viste de rosa, la verdadera diferencia la hace el tiempo. Más allá de los lazos y las campañas, salvar vidas empieza por perder el miedo, escuchar las señales del cuerpo y no esperar a que algo duela para ir al médico. Al final, hacerse un chequeo temprano no es solo un trámite de salud, es la oportunidad real de asegurar un futuro. </p>`
 
 	   image: "cancermama.jpeg"
 	   date: "14 de octubre, 2026"
