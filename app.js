@@ -206,6 +206,7 @@ const NEWS = [
 	 image:,
 	 date: "4 de noviembre, 2026",
 	 feautered: false
+	},
 ];  
 
 // ── UTILS ──────────────────��──────────────────────────────────
