@@ -182,6 +182,7 @@ const NEWS = [
 	<p>El equipo de respaldo instalado en el negocio no alimenta todo el local, sino que prioriza las cargas esenciales para no agotar la carga guardada. La combinación de un inversor de voltaje con un banco de baterías permite mantener encendidas las pantallas de resultados, la conexión a internet y las terminales de cobro durante los cortes.</p>
 	<p>“El sistema no está diseñado para conectar aire acondicionado ni equipos de alto consumo. Está calculado estrictamente para mantener los puntos de venta y la computadora principal. La capacidad de las baterías nos da una autonomía de cuatro a cinco horas, tiempo suficiente para cubrir los cortes más habituales en la zona”, comentó el gerente.</p>
 	<p>Para las cuatro sucursales restantes, el encargado señala que adaptar inversores de gran capacidad en cada punto resultaba una inversión inviable. Frente a esa limitación económica, la estrategia en esos locales se redujo a un respaldo mínimo mediante baterías pequeñas dedicadas exclusivamente a los módems y a las computadoras, asegurando así la conexión a internet necesaria para no detener las ventas durante las fallas del servicio.</p>
+	<img src="centroapuestasjpeg.jpeg" alt="Centro de Apuestas" style="width: 50%; height:auto">
 	<p><strong>Equipos recargables para mantener la atención</strong></p>
 	<p>Mientras los grandes locales recurren a plantas eléctricas o costosos bancos de baterías para sostener estructuras pesadas, servicios como la barbería han encontrado en la tecnología inalámbrica y recargable una vía rápida para no detener la atención al cliente.</p>
 	<p>Eduard Velazco, CEO de Visionary Hair Salon, ubicado en la carrera 19 con calle 56 de Barquisimeto, ha encontrado en la autonomía de sus instrumentos la clave para no detener la atención al cliente cuando se interrumpe el flujo eléctrico. Contar con un inventario de cinco o seis afeitadoras inalámbricas con baterías de larga duración le permite garantizar la operatividad sin depender de un tomacorriente en el momento crítico.</p>
@@ -189,7 +190,14 @@ const NEWS = [
 	<p>Aunque el rendimiento acumulado de sus equipos le otorga una autonomía aproximada de hasta treinta horas de uso continuo, el barbero aclara que el verdadero límite frente a la falla eléctrica no son sus aparatos, sino el confort del cliente:</p>
 	<p>“Relativamente no va con el tema de la máquina, sino con el tema de luz y calor. Normalmente lo que hago cuando se va la luz es atender a dos o máximo tres personas para mantener la calidad del servicio y la comodidad en el salón”.</p>
 	<p>Ante la idea de comprar una planta eléctrica o un convertidor de gran tamaño, Velazco aclara que el gasto no vale la pena solo para encender los aires acondicionados centrales. Por eso, apostar por herramientas recargables se mantiene como la opción más práctica y económica para no detener el trabajo en el local.</p>
-	<img src="centroapuestasjpeg.jpeg" alt="Centro de Apuestas" style="width: 50%; height:auto">
+    <a href="https://ejemplo.com/tu-articulo" target="_blank" class="preview-card">
+    <img src="centroapuestasjpeg.jpeg" alt="Imagen de preview" class="preview-img">
+    <div class="preview-content">
+    <h3 class="preview-title">Título increíble del artículo o enlace</h3>
+    <p class="preview-desc">Esta es una pequeña descripción o resumen de lo que el usuario va a encontrar al hacer clic en el enlace...</p>
+    <span class="preview-url">ejemplo.com</span>
+    </div>
+    </a>
 	<p><strong>Diagnóstico del experto</strong></p>
 	<p>Más allá de la oscuridad, el verdadero problema de los cortes de luz son las pérdidas que dejan a su paso. En los comercios de Barquisimeto, una baja de luz repentina basta para quemar la tarjeta de una nevera, dañar un punto de venta o apagar por completo las computadoras. En solo segundos, los equipos más importantes del negocio pueden quedar inservibles, obligando a los dueños a vivir con el miedo constante de perder su inversión con cada apagón.</p>
 	<p>Ante esta amenaza constante, el trabajo de los técnicos eléctricos se ha vuelto indispensable para investigar el origen del problema y buscar alternativas de protección. Ernesto Pérez, electricista industrial con años de experiencia, explica que la vulnerabilidad de estos aparatos no es casualidad, sino el resultado directo de la inestabilidad con la que regresa la energía a los circuitos comerciales:</p>
