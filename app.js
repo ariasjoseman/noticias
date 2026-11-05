@@ -198,7 +198,7 @@ const NEWS = [
 	<p>Aunque el rendimiento acumulado de sus equipos le otorga una autonomía aproximada de hasta treinta horas de uso continuo, el barbero aclara que el verdadero límite frente a la falla eléctrica no son sus aparatos, sino el confort del cliente:</p>
 	<p>“Relativamente no va con el tema de la máquina, sino con el tema de luz y calor. Normalmente lo que hago cuando se va la luz es atender a dos o máximo tres personas para mantener la calidad del servicio y la comodidad en el salón”.</p>
 	<p>Ante la idea de comprar una planta eléctrica o un convertidor de gran tamaño, Velazco aclara que el gasto no vale la pena solo para encender los aires acondicionados centrales. Por eso, apostar por herramientas recargables se mantiene como la opción más práctica y económica para no detener el trabajo en el local.</p>
-	<a href="https://vt.tiktok.com/ZSpNtDgeq/" target="_blank" class="preview-card">
+	<a href="https://www.instagram.com/reel/Dbje2ihh0Zf/?srtk=MzI3cDRpNXRsbWo=" target="_blank" class="preview-card">
     <img src="barberia.jpeg" alt="Imagen de preview" class="preview-img">
     <div class="preview-content">
     <h3 class="preview-title">Dinámica de trabajo en Visionary Hair Salon .</h3>
