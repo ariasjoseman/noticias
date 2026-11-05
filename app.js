@@ -160,7 +160,7 @@ const NEWS = [
 	   featured: false 
    },
  {
-	id:8,
+	id:9,
 	slug: "estrategias-de-venta",
 	category: "Venezuela",
 	title: "Estrategias de venta en los comercios de Barquisimeto ante los cortes eléctricos",
