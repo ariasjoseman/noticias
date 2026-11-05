@@ -203,7 +203,7 @@ const NEWS = [
 	<p>Frente a un panorama energético caracterizado por la incertidumbre y la inestabilidad, los comerciantes e industriales de Barquisimeto han demostrado que la adaptabilidad es su mayor activo de supervivencia. Ya sea mediante la inversión en sistemas de autogeneración pesados, la instalación de inversores dedicados a cargas críticas o la transición hacia herramientas recargables de uso manual, el sector comercial del municipio Iribarren continúa transformando sus dinámicas operativas para evitar el cierre tempranero.</p>
 	<p>La economía de los respaldos no solo representa un gasto operativo extraordinario para el empresariado local, sino también la respuesta firme de una comunidad productiva decidida a mantener sus puertas abiertas a pesar de la oscuridad.</p>`,
 
-	 image:,
+	 image:"cancermama.jpeg",
 	 date: "4 de noviembre, 2026",
 	 featured: false
 	},
