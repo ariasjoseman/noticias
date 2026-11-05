@@ -216,7 +216,7 @@ const NEWS = [
 	<p>“Un protector de voltaje cuesta una fracción de lo que vale una computadora o una tarjeta de refrigeración. Adoptar el hábito de desconectar los equipos y esperar a que la red se estabilice es la única forma de evitar gastos imprevistos que muchos comerciantes no pueden asumir”.</p>
 	<p><strong>Propuestas gremiales y el costo de operar</strong></p>
 	<p>Los reportes de Fedecámaras Lara confirman que la falta de energía ha reducido a la mitad la capacidad para trabajar de las empresas y negocios locales.</p>
-	<a href="https://vt.tiktok.com/ZSpNtDgeq/" target="_blank" class="preview-card">
+	<a href="https://fedecamaras.org.ve/" target="_blank" class="preview-card">
     <img src="fedecamaras.jpeg" alt="Imagen de preview" class="preview-img">
     <div class="preview-content">
     <h3 class="preview-title">Fedecámaras Lara</h3>
