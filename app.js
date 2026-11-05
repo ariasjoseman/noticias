@@ -221,7 +221,7 @@ const NEWS = [
     <div class="preview-content">
     <h3 class="preview-title">Fedecámaras Lara</h3>
     <span class="preview-url">Web Oficial de Fedecamaras</span>
-	<p class="preview-desc">En au aitio webs se puede encontrar mas información relacionada con el tema.</p>
+	<p class="preview-desc">En su aitio webs se puede encontrar mas información relacionada con el tema.</p>
     </div>
     </a>
 	<p>Ante esta realidad, el sector privado propone que se den facilidades para comprar o traer al país equipos como inversores de baterías o plantas eléctricas sin pagar tantos impuestos, buscando aliviar el bolsillo de quienes tienen que gastar para no cerrar sus puertas durante los apagones.</p>
