@@ -5,7 +5,7 @@
 // ── DATA ──────────────────────────────────────────────────────
 const NEWS = [
   {
-    id: 2,
+    id: 9,
     slug: "argentina-golea-argelia",
     category: "Deportes",
     title: "Argentina golea a Argelia y logra un debut soñado",
@@ -25,10 +25,10 @@ const NEWS = [
 `,
     image: "Argentina.jpeg",
     date: "junio, 2026",
-    featured: true
+    featured: false
   },
   {
-    id: 3,
+    id: 8,
     slug: "doble-terremoto-venezuela",
     category: "Venezuela",
     title: "Doble terremoto azota a Venezuela",
@@ -48,7 +48,7 @@ const NEWS = [
     featured: false
   },
   {
-    id: 4,
+    id: 7,
     slug: "detras-del-exito",
     category: "Cultura",
     title: "El detrás del éxito: historias que no llegan a primera plana",
@@ -64,7 +64,7 @@ const NEWS = [
     featured: false
   },
   {
-    id: 5,
+    id: 6,
     slug: "basquetbol-luto",
     category: "Deportes",
     title: "El básquetbol está de luto",
@@ -82,7 +82,7 @@ const NEWS = [
     featured: false
   },
   {
-    id: 6,
+    id: 5,
     slug: "palavecino-drenaje",
     category: "Venezuela",
     title: "En Palavecino se inició plan de limpieza del drenaje",
@@ -98,7 +98,7 @@ const NEWS = [
     featured: false
   },
   {
-    id: 7,
+    id: 4,
     slug: "ggm-noticia-caracas",
     category: "Cultura",
     title: "García Márquez bautizó su «Noticia de un secuestro» en Caracas",
@@ -116,7 +116,7 @@ const NEWS = [
     featured: false
   },
 	{
-    id: 8,
+    id: 3,
     slug: "cortes-electricos-lara",
     category: "Venezuela",
     title: "Los cortes eléctricos: nuevo desafío para conductores larenses",
@@ -133,7 +133,7 @@ const NEWS = [
 	
   },
    {
-	id: 1,
+	id: 2,
 	slug: "entrevista-cancer-de-mama",
 	category: "Salud",
 	title: "El cáncer de mama es curable en 99 % si se detecta a tiempo: Dra. Carolina Martinez",
@@ -160,7 +160,7 @@ const NEWS = [
 	   featured: false 
    },
  {
-	id:9,
+	id:1,
 	slug: "estrategias-de-venta",
 	category: "Venezuela",
 	title: "Estrategias de venta en los comercios de Barquisimeto ante los cortes eléctricos",
@@ -230,7 +230,7 @@ const NEWS = [
 
 	 image:"negocios.jpeg",
 	 date: "4 de noviembre, 2026",
-	 featured: false
+	 featured: true
 	},
 ];  
 
