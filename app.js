@@ -177,6 +177,7 @@ const NEWS = [
 	<p>A pesar de los daños en los equipos y de admitir que la compra de un sistema de respaldo representa un gasto cuya inversión no se recupera a corto plazo, Cañizalez sostiene con firmeza la necesidad de haber realizado dicha compra.</p>
 	<p>Para la gerencia del comercio, asumir el costo de los sistemas de respaldo sigue siendo la única alternativa viable frente a la paralización de las actividades, pues el cierre del negocio cada vez que se interrumpe el servicio no es una opción si se busca mantener la empresa a flote en el mercado local.</p>
 	<p><strong>Estrategias de adaptación en los comercios locales</strong></p>
+	<img src="centroapuestasjpeg.jpeg" alt="Centro de Apuestas">
 	<p>Un corte de luz de horas puede significar la pérdida total de la jornada para un comercio de apuestas. Para evitar que las ventas se detengan, Manuel Riveros, gerente de El Salón de la Fama instaló un inversor de corriente con baterías en la sede principal de sus agencias de lotería, ubicada en la carrera 15 con calle 52. El sistema le permite sostener las operaciones esenciales del local, a diferencia de las otras cuatro sucursales que administra en Barquisimeto.</p>
 	<p>“Las personas vienen a hacer sus jugadas en horas muy específicas. Si el punto de venta no pasa porque no hay energía, la venta se cae al instante. Contar con el respaldo en la 52 nos permite mantener la caja abierta y atender a los clientes que llegan a hacer su apuesta”, destaca Riveros.</p>
 	<p>El equipo de respaldo instalado en el negocio no alimenta todo el local, sino que prioriza las cargas esenciales para no agotar la carga guardada. La combinación de un inversor de voltaje con un banco de baterías permite mantener encendidas las pantallas de resultados, la conexión a internet y las terminales de cobro durante los cortes.</p>
@@ -203,7 +204,7 @@ const NEWS = [
 	<p>Frente a un panorama energético caracterizado por la incertidumbre y la inestabilidad, los comerciantes e industriales de Barquisimeto han demostrado que la adaptabilidad es su mayor activo de supervivencia. Ya sea mediante la inversión en sistemas de autogeneración pesados, la instalación de inversores dedicados a cargas críticas o la transición hacia herramientas recargables de uso manual, el sector comercial del municipio Iribarren continúa transformando sus dinámicas operativas para evitar el cierre tempranero.</p>
 	<p>La economía de los respaldos no solo representa un gasto operativo extraordinario para el empresariado local, sino también la respuesta firme de una comunidad productiva decidida a mantener sus puertas abiertas a pesar de la oscuridad.</p>`,
 
-	 image:"cancermama.jpeg",
+	 image:"negocios.jpeg",
 	 date: "4 de noviembre, 2026",
 	 featured: false
 	},
