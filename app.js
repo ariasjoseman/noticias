@@ -216,6 +216,13 @@ const NEWS = [
 	<p>“Un protector de voltaje cuesta una fracción de lo que vale una computadora o una tarjeta de refrigeración. Adoptar el hábito de desconectar los equipos y esperar a que la red se estabilice es la única forma de evitar gastos imprevistos que muchos comerciantes no pueden asumir”.</p>
 	<p><strong>Propuestas gremiales y el costo de operar</strong></p>
 	<p>Los reportes de Fedecámaras Lara confirman que la falta de energía ha reducido a la mitad la capacidad para trabajar de las empresas y negocios locales.</p>
+	<a href="https://vt.tiktok.com/ZSpNtDgeq/" target="_blank" class="preview-card">
+    <img src="fedecamaras.jpeg" alt="Imagen de preview" class="preview-img">
+    <div class="preview-content">
+    <h3 class="preview-title">Fedecámaras Lara</h3>
+    <span class="preview-url">Web Oficial de Fedecamaras</span>
+    </div>
+    </a>
 	<p>Ante esta realidad, el sector privado propone que se den facilidades para comprar o traer al país equipos como inversores de baterías o plantas eléctricas sin pagar tantos impuestos, buscando aliviar el bolsillo de quienes tienen que gastar para no cerrar sus puertas durante los apagones.</p>
 	<p>Frente a un panorama energético caracterizado por la incertidumbre y la inestabilidad, los comerciantes e industriales de Barquisimeto han demostrado que la adaptabilidad es su mayor activo de supervivencia. Ya sea mediante la inversión en sistemas de autogeneración pesados, la instalación de inversores dedicados a cargas críticas o la transición hacia herramientas recargables de uso manual, el sector comercial del municipio Iribarren continúa transformando sus dinámicas operativas para evitar el cierre tempranero.</p>
 	<p>La economía de los respaldos no solo representa un gasto operativo extraordinario para el empresariado local, sino también la respuesta firme de una comunidad productiva decidida a mantener sus puertas abiertas a pesar de la oscuridad.</p>`,
