@@ -182,7 +182,7 @@ const NEWS = [
 	<p>El equipo de respaldo instalado en el negocio no alimenta todo el local, sino que prioriza las cargas esenciales para no agotar la carga guardada. La combinación de un inversor de voltaje con un banco de baterías permite mantener encendidas las pantallas de resultados, la conexión a internet y las terminales de cobro durante los cortes.</p>
 	<p>“El sistema no está diseñado para conectar aire acondicionado ni equipos de alto consumo. Está calculado estrictamente para mantener los puntos de venta y la computadora principal. La capacidad de las baterías nos da una autonomía de cuatro a cinco horas, tiempo suficiente para cubrir los cortes más habituales en la zona”, comentó el gerente.</p>
 	<p>Para las cuatro sucursales restantes, el encargado señala que adaptar inversores de gran capacidad en cada punto resultaba una inversión inviable. Frente a esa limitación económica, la estrategia en esos locales se redujo a un respaldo mínimo mediante baterías pequeñas dedicadas exclusivamente a los módems y a las computadoras, asegurando así la conexión a internet necesaria para no detener las ventas durante las fallas del servicio.</p>
-	<img src="centroapuestasjpeg.jpeg" alt="Centro de Apuestas" style="width: 50%; height:auto">
+	<img src="centroapuestasjpeg.jpeg" alt="Centro de Apuestas" style="display: block; margin: 0 auto; width: 50%; height:auto">
 	<p><strong>Equipos recargables para mantener la atención</strong></p>
 	<p>Mientras los grandes locales recurren a plantas eléctricas o costosos bancos de baterías para sostener estructuras pesadas, servicios como la barbería han encontrado en la tecnología inalámbrica y recargable una vía rápida para no detener la atención al cliente.</p>
 	<p>Eduard Velazco, CEO de Visionary Hair Salon, ubicado en la carrera 19 con calle 56 de Barquisimeto, ha encontrado en la autonomía de sus instrumentos la clave para no detener la atención al cliente cuando se interrumpe el flujo eléctrico. Contar con un inventario de cinco o seis afeitadoras inalámbricas con baterías de larga duración le permite garantizar la operatividad sin depender de un tomacorriente en el momento crítico.</p>
@@ -194,7 +194,7 @@ const NEWS = [
     <img src="centroapuestasjpeg.jpeg" alt="Imagen de preview" class="preview-img">
     <div class="preview-content">
     <h3 class="preview-title">Dinámica de trabajo en Visionary Hair Salon</h3>
-    <p class="preview-desc">mediante el uso de maquinaria inalámbrica a batería para evitar la paralización del servicio.</p>
+    <p class="preview-desc">Mediante el uso de maquinaria inalámbrica a batería para evitar la paralización del servicio.</p>
     <span class="preview-url">Visionary Salon en TikTok</span>
     </div>
     </a>
