@@ -176,6 +176,14 @@ const NEWS = [
 	<p>“Las ventas se nos caen en un 50 % cada vez que se va la luz. Es un golpe duro, y la situación empeora con los bajones de luz, que ya nos han quemado computadoras importantes para la operación del negocio”.</p>
 	<p>A pesar de los daños en los equipos y de admitir que la compra de un sistema de respaldo representa un gasto cuya inversión no se recupera a corto plazo, Cañizalez sostiene con firmeza la necesidad de haber realizado dicha compra.</p>
 	<p>Para la gerencia del comercio, asumir el costo de los sistemas de respaldo sigue siendo la única alternativa viable frente a la paralización de las actividades, pues el cierre del negocio cada vez que se interrumpe el servicio no es una opción si se busca mantener la empresa a flote en el mercado local.</p>
+	<a href="https://vt.tiktok.com/ZSpNtDgeq/" target="_blank" class="preview-card">
+    <img src="ferreteria.jpeg" alt="Imagen de preview" class="preview-img">
+    <div class="preview-content">
+    <h3 class="preview-title">Muestra comercial en Inversiones Nazar Color.</h3>
+    <p class="preview-desc">Sobre la oferta de insumos de respaldo eléctrico, como bombillos recargables y lámparas solares, frente a las fluctuaciones del servicio.</p>
+    <span class="preview-url">Ferre Pinturas Nazar, C.A en TikTok</span>
+    </div>
+    </a>
 	<p><strong>Estrategias de adaptación en los comercios locales</strong></p>
 	<p>Un corte de luz de horas puede significar la pérdida total de la jornada para un comercio de apuestas. Para evitar que las ventas se detengan, Manuel Riveros, gerente de El Salón de la Fama instaló un inversor de corriente con baterías en la sede principal de sus agencias de lotería, ubicada en la carrera 15 con calle 52. El sistema le permite sostener las operaciones esenciales del local, a diferencia de las otras cuatro sucursales que administra en Barquisimeto.</p>
 	<p>“Las personas vienen a hacer sus jugadas en horas muy específicas. Si el punto de venta no pasa porque no hay energía, la venta se cae al instante. Contar con el respaldo en la 52 nos permite mantener la caja abierta y atender a los clientes que llegan a hacer su apuesta”, destaca Riveros.</p>
@@ -190,12 +198,12 @@ const NEWS = [
 	<p>Aunque el rendimiento acumulado de sus equipos le otorga una autonomía aproximada de hasta treinta horas de uso continuo, el barbero aclara que el verdadero límite frente a la falla eléctrica no son sus aparatos, sino el confort del cliente:</p>
 	<p>“Relativamente no va con el tema de la máquina, sino con el tema de luz y calor. Normalmente lo que hago cuando se va la luz es atender a dos o máximo tres personas para mantener la calidad del servicio y la comodidad en el salón”.</p>
 	<p>Ante la idea de comprar una planta eléctrica o un convertidor de gran tamaño, Velazco aclara que el gasto no vale la pena solo para encender los aires acondicionados centrales. Por eso, apostar por herramientas recargables se mantiene como la opción más práctica y económica para no detener el trabajo en el local.</p>
-    <a href="https://vt.tiktok.com/ZSpNtDgeq/" target="_blank" class="preview-card">
-    <img src="centroapuestasjpeg.jpeg" alt="Imagen de preview" class="preview-img">
+	<a href="https://vt.tiktok.com/ZSpNtDgeq/" target="_blank" class="preview-card">
+    <img src="barberia.jpeg" alt="Imagen de preview" class="preview-img">
     <div class="preview-content">
-    <h3 class="preview-title">Dinámica de trabajo en Visionary Hair Salon</h3>
+    <h3 class="preview-title">Dinámica de trabajo en Visionary Hair Salon .</h3>
     <p class="preview-desc">Mediante el uso de maquinaria inalámbrica a batería para evitar la paralización del servicio.</p>
-    <span class="preview-url">Visionary Salon en TikTok</span>
+    <span class="preview-url">Visionary Hair Salon en Instagram</span>
     </div>
     </a>
 	<p><strong>Diagnóstico del experto</strong></p>
