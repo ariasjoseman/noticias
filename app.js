@@ -232,6 +232,175 @@ const NEWS = [
 	 date: "4 de noviembre, 2026",
 	 featured: true
 	},
+{
+	id:10,
+	slug:"eSports-2026",
+	category: "deportes",
+	title:"La gran final de los eSports de la LVBP se disputó en Caracas",
+	excerpt: "Los mejores gamers de Venezuela disputaron en Caracas la final de eSports de la LVBP en MLB The Show",
+	body: `<p>Las instalaciones del Xtreme Arena en la ciudad de Caracas, albergaron la gran final del torneo de los eSports de la Liga Venezolana de Beisbol Profesional (LVBP), por cuarto año consecutivo.</p>
+	<p>El sábado 12 de septiembre, los mejores gamers del juego MLB The Show en el país, utilizando una adaptación de la pelota criolla, midieron fuerzas para definir al nuevo rey del beisbol virtual.</p>
+	<p>Winder Lugo, CEO de Venezuela The Show, expresó cómo surgió la idea del modo de juego: “Este proyecto nació del sueño de jugar con nuestros equipos venezolanos en las consolas”. Agregó que el, junto a su equipo de trabajo, duran de tres a cuatro meses para crear entre setenta y setenta y cinco jugadores desde cero, permitiendo que incluso venezolanos en el extranjero puedan conectar y representar a sus equipos.</p>
+	<p>En el evento estuvieron tanto participantes experimentados como promesas emergentes. Albert Guevara, bicampeón de certámenes anteriores, destacó la competitividad de este año: “El nivel de esta edición fue altísimo. Enfrentar a jugadores que practican todo el año para ganar el primer lugar demuestra lo mucho que ha crecido la comunidad gamer en el país”.</p>
+	<p>Además, habló de lo importante que es la competencia para él, logrando en parte, cumplir su aspiración de llegar a ser un beisbolista profesional y portar la camiseta de su equipo favorito.</p>
+	<p>Esta competición creada por VZLA The Show y organizada por la LVBP, reafirma el poderío que tienen los deportes electrónicos y la alianza entre el beisbol tradicional y los videojuegos en Venezuela.</p>
+
+	  image:
+	  date: "12 de septiembre, 2026"
+	  featured: false
+	},
+{
+    id:11,
+	slug:"Perla-do-Atlantico",
+	category: "Venezuela",
+	title:"Perla do Atlántico: La mayor distribuidora de panes de pepito en Lara",
+	excerpt:"De los hornos de la panadería Perla do Atlántico sale la mayoría de los panes para el icónico pepito guaro en Lara",
+	body:`<p>La panadería Perla do Atlántico es la principal distribuidora de panes de pepitos en el estado Lara. Ubicada en la calle 52 con carrera 15 de Barquisimeto, es el lugar donde comienza el icónico plato guaro, llegando a proveer 4.500 unidades semanales para los locales de comida rápida en la región.</p>
+    <p>Fundada en 1972, el negocio no solo satisface la demanda gastronómica local, además se ha expandido por el país, abasteciendo franquicias como Pepiteria 13 en las ciudades de Caracas y Valencia.</p>
+    <p>José Paulino Maciel, fundador de la panadería, explica que el formato del pan de 35 centímetros nació en el año 1995 a petición de los compradores: “No fuimos nosotros, fueron los propios clientes que vinieron, compraron y les gustó la calidad del producto”.</p>
+    <p>A partir de esa creación, la medida se consolidó en la ciudad como la dimensión perfecta para elaborar un pepito guaro, cambiando para siempre la gastronomía Larense.</p>
+    <p>Bryan Loyo, panadero de la Perla do Atlántico, detalla que el proceso arranca a las 6:30 de la mañana, con cuatro horas de leudado y fermentación, finalizando al mediodía para abastecer los negocios nocturnos a tiempo.</p>
+    <p>“El secreto es hacer todo al pie de la letra, mantener la materia prima al día y hornear el tiempo adecuado”, afirma el artesano.</p>
+    <p>A lo largo de las décadas, por sus hornos han pasado marcas como El Gordo Alex, Joao Burguer, Tatos Street Food y Sofia Burguer, afianzándose como el sello por excelencia del platillo barquisimetano.</p>
+    <p>Bajo el trabajo, el compromiso y la calidad, la Perla do Atlántico y sus panes han sido parte de muchas cenas y momentos importantes para las personas, convirtiéndose parte de esta rica tradición culinaria.</p>
+    <p>Para los fanáticos de la comida callejera, saber que un pepito está elaborado con un pan de “La Perla” es señal de garantía, debido a ser crujiente por fuera y suave por dentro, no desarmarse con el relleno y su combinación con las salsas. Todo junto es totalmente recomendado.</p>
+
+      image:
+	  date:"24 de septiembre, 2026"
+      featured: false
+     },
+{ 
+	 id:12,
+     slug:"Final-sudamericano-sub-20",
+	 category: "Deportes",
+	 title:"Brasil vence en prórroga a Venezuela y conquista el Sudamericano Sub-20 femenino",
+	 excerpt:"De forma invicta, Brasil derrotó en tiempo extra a Venezuela en Barquisimeto para coronarse campeón Sub-20",
+	 body:`<p>La final del Conmebol sudamericano sub-20 de futsal femenino, celebrado el 20 de septiembre en el Domo Bolivariano de Barquisimeto entre Venezuela y Brasil, finalizó con una victoria por tres a una a favor de la verdeamarela. Un encuentro intenso que llegaría hasta el tiempo extra, en donde se terminaría definiendo el partido.</p>
+	 <p>Un Domo que de principio a fin se encontró abarrotado por el aliento del publico venezolano, apoyando con todo a su selección.</p>
+	 <p>Desde el minuto uno, la selección brasileña demostró su superioridad pegando su primer gol al poco tiempo de comenzar. Venezuela se mantuvo defendiendo casi todo el partido, realzando la figura de su arquera Michell Tirado, quien detuvo una gran cantidad de disparos brasileños, convirtiéndose en la jugadora más valiosa de la cancha.</p>
+	 <p>Ya en los instantes finales de la prórroga, la Canarinha logró encajar dos goles, llevándose la victoria y el campeonato.</p>
+	 <p>“Orgulloso de las muchachas por el trabajo y la entrega que hicieron para llegar a estas instancias definitivas. A pesar del corto tiempo de trabajo que tuvimos, la selección va a seguir trabajando, va a seguir luchando para prepararse mejor”, comentó Mike Guerra, entrenador de la selección venezolana.</p>
+	 <p>Por el lado de Brasil, llegó a la final de manera invicta, logrando por quinta vez la final de la competición luego de derrotar a Colombia en las semifinales. Mientras que el camino de Venezuela comenzó con tres victorias y una derrota ante la misma selección de Brasil, y tras derrotar a Argentina en las semis, alcanzó el tan ansiado partido.</p>
+	 <p>La Vinotinto finalizó el torneo con resultado histórico, siendo la primera vez que consiguen el subcampeonato, dejando un legado para el recuerdo.</p>
+
+	   image:
+	   date:"20 de septiembre, 2026"
+	   feautured: false
+	  },
+
+{
+     id:13,
+	 slug:"FestiFe-2026",
+	 category:"Cultura",
+	 title:"Arquidiócesis de Barquisimeto prepara el FestiFe 2026 y su primera carrera 7K",
+	 excerpt:"Con una carrera 7K y el FestiFe 2026, la Arquidiócesis de Barquisimeto busca recaudar fondos para sus parroquias",
+	 body:`<p>La Arquidiócesis de Barquisimeto entra en la recta final para la organización de la tercera edición del FestiFe 2026 y la primera caminata y carrera 7k. Este 17 de octubre, el Centro Comercial Las Trinitarias servirá como sede del evento, buscando reunir a la feligresía larense y alcanzar la meta de venta de 130.000 boletos del bono arquidiocesano para el mantenimiento del Seminario Divina Pastora y la atención de las parroquias.</p>
+	 <p>A diferencia de entregas anteriores, este año destaca por la introducción de innovaciones organizativas y tecnológicas. Un acierto es la inclusión de una competencia deportiva, la cual comenzará a primeras horas de la mañana. Mientras que cada boleto contará con un código QR para financiar un sistema de cobertura medica para el clero. Asimismo, el proceso de registro de los tickets se realizará mediante una nueva plataforma digital.</p>
+	 <p><strong>Objetivos de la actividad</strong></p>
+	 <p>La propuesta de nuevas actividades resulta atractiva para el público. El presbítero Jesús Alberto Ramírez, vocero de la comisión organizadora, destacó el objetivo del encuentro: “El FestiFe será un espacio de comunión que incluirá la celebración de la eucaristía, conferencias, presentaciones musicales y la Expo Pastorales para mostrar el trabajo que realiza la Iglesia en Lara.</p>
+	 <p>Por su parte, el arzobispo de Barquisimeto, Monseñor Polito Rodríguez Méndez, señaló que la meta económica responde a una necesidad urgente de la Arquidiócesis de Barquisimeto dejando en claro un profundo sentido de responsabilidad social. Explicó que el mayor valor de esta iniciativa no está en el premio material, sino en asegurar la formación de los jóvenes en el Seminario y garantizar el sostenimiento de las distintas parroquias del estado.</p>
+	 <p><strong>Puntos para tener en cuenta</strong></p>
+	 <p>Sin embargo, uno de los desafíos principales de esta actividad es el precio de los boletos. Con un costo de diez dólares, el valor del bono se convierte en una disyuntiva para el larense común, considerando la realidad financiera actual. No obstante, la organización busca equilibrar la balanza mediante un atractivo costo-beneficio, debido a la cantidad de premios que hay como un auto cero kilómetros, motocicletas, artefactos electrónicos y a la ayuda que se realiza al seminario.</p>
+	 <p>Para quienes evalúen su participación, la recomendación es abordar el evento desde una perspectiva de apoyo comunitario. Si el presupuesto lo permite, adquirir el bono en las parroquias es una inversión social justificada, de lo contrario se aconseja no aislarse y sumarse de igual forma a la carrera matutina como un gratuito de reencuentro ciudadano.</p>
+	 <p>Sumado a esto, ayuda a los negocios de productos religiosos a darse a conocer, sea un emprendimiento grande o uno que apenas está comenzando, elevando así su exposición. Con los conferencistas y la eucaristía, el público puede aprender un poco más de la palabra y acercarse al camino de Dios. Este FestiFe promete ser un evento para elevar la fe, la solidaridad y la ayuda al prójimo llegando a ser un acto de caridad para las parroquias y para todos los católicos.	 
+
+		image:
+	    date:"8 de octubre, 2026"
+	    feautured: false
+	  },
+ {
+	  id:14,
+	  slug:"Remontada-de-cardenales",
+	  category:"deportes",
+	  title:"Remontada de Cardenales ante bravos en su primer juego de la LVBP",
+	  excerpt:"Cardenales de Lara remontó en la novena entrada para vencer 4-3 a Bravos de Margarita en el inicio de la LVBP"
+	  body:`<p>Este 14 de octubre, los Cardenales de Lara comenzaron su primer juego de la temporada 2026/27 de la Liga Venezolana de Béisbol Profesional (LVBP) con una remontada en el juego ante los Bravos de Margarita por un resultado final de cuatro a tres. En un Estadio Antonio Herrera Gutiérrez de Barquisimeto con mas de 12.000 fanáticos alentando a su equipo, la novena larense logro llevarse el juego en la ultima entrada.</p>
+	  <p>El duelo se tornó intenso desde el playball, el cuadro margariteño se colocaría por delante en el marcador con un jonrón por todo el jardín izquierdo del jugador Diosbel Arias, bajando un poco el animo del público. Sin embargo, los guaros responderían rápido con un imparable remolcador del estadounidense Spencer Packard para empatar el partido.</p>
+	  <p>Los pájaros rojos siguieron bateando con fuerza tras un cuadrangular por el right field de Danry Vásquez y con un rodado productivo hacia el campocorto de Diego Castillo para traer a Rangel Ravelo al home plate y ampliar aún más la ventaja. Sin duda, Cardenales comenzó el encuentro con ganas de llevárselo desde el primer lanzamiento.</p>
+	  <p>Durante el resto del partido no hubo movimientos en la pizarra, hasta que llegó la parte alta del octavo capítulo, en donde el conjunto insular empató el juego tras otro batazo de dos carreras del cubano Arias.</p>
+	  <p>El conjunto crepuscular llegaba al noveno acto con la chance de sentenciar el enfrentamiento o irse a extra-innings. No obstante, Ravelo pegaría un doble y posteriormente Samuel Zavala se vistió de héroe con una línea profunda para dejar en el terreno cosechando una gran remontada y el primer triunfo del año.</p>
+	  <p><strong>Jugadores claves</strong></p>
+	  <p>La ofensiva de los cardenales hizo acto de presencia en el partido, con Vásquez y su vuelacerca, Packard impulsando una carrera luego de un hit, el primera base Ravelo que se fue de 4-3 con dos hits y un doblete y Zabala que, con su increíble batazo, daría cierre con la remontada final.</p>
+	  <p>Desde la lomita, la gran figura cardenalera fue el abridor zurdo Adrián Almeida, quien durante cinco entradas completas demostró su jerarquía. El pitcher únicamente permitió una carrera limpia y tres imparables e hizo abanicar a diez bateadores, registrando así su marca personal de ponches en un encuentro de la LVBP.</p>
+	  <p>“Aprendí de la experiencia de la temporada pasada. Me preparé muy fuerte antes de venir a Venezuela, pero no sentí la presión esta noche. Era un juego más, aunque con mayor responsabilidad”, comentó el lanzador tras su primer juego.</p>
+	  <p>Asimismo, el mánager de Cardenales, Cesar Isturiz, destacó la actitud del grupo dentro del campo, quienes demostraron madurez en un primer juego que eleva las emociones.</p>
+	  <p>De esta manera, el nido barquisimetano celebró la primera conquista de la temporada en una noche donde el carácter y el bateo oportuno marcaron la diferencia. Cardenales de Lara inicia la temporada de la mejor manera, demostrando desde el primer juego las credenciales para pelear el título.</p>
+
+        image:
+		date:"15 de octubre, 2026"
+		feautured: false
+	   },
+ {   
+      id:15,
+	  slug:"Gregorio-nieto-violonchelista"
+	  category:"cultura"
+	  title:"Gregorio Nieto: el violonchelista barquisimetano nominado a los Latin Grammy"
+	  excerpt:"El violonchelista barquisimetano Gregorio Nieto logra su primera nominación al Latin Grammy"
+	  body:`<p>La gran creación artística y musical del estado Lara ha alcanzado un nuevo hito internacional. El violonchelista barquisimetano Gregorio Nieto fue nominado a la vigesimoséptima edición de los premios Latin Grammy.</p>
+	  <p>Este reconocimiento entregado por La Academia Latina de la Grabación, el 17 de septiembre postuló a la producción Opus 33 – Romantic Cello en la categoría de Mejor Álbum de Música Clásica.</p>
+	  <p>Aunque el guaro es el musico principal y el protagonista absoluto del disco, obtuvo la ayuda de la London Symphony Orchestra, una organización ubicada en Londres y que es una de las orquestas sinfónicas mas famosas, prestigiosas y antiguas del mundo. Además, en el proyecto estuvo trabajando el maestro y percusionista español Josep Vicent, quien fue el encargado de dirigir a la agrupación británica en los estudios Abbey Road.</p>
+	  <p>El repertorio seleccionado para realizar esta obra reúne algunas de las composiciones más exigentes del romanticismo clásico, destacando las célebres piezas inspiradas en el estilo rococó de Pyotr Ilyich Tchaikovsky y el concierto para violonchelo número 1 en La menor de Camille Saint-Saens. Ambas páginas son reconocidas en la literatura musical por combinar una intensa carga dramática con una exigente destreza técnica.</p>
+	  <p><strong>Reacción y proyección internacional</strong></p>
+	  <p>Tras la noticia de su postulación, Nieto expresó su emoción por esta meta alcanzada: “Esta primera nominación al Latin Grammy representa una alegría inmensa y una experiencia profundamente emotiva. Haber materializado este proyecto me impulsa a seguir llevando nuestra voz interpretativa al mundo”.</p>
+	  <p>El músico explicó a la prensa que haber concretado esta meta con el conjunto inglés confirma el alto nivel técnico de los profesionales formados en el país. Afirma que este logro demuestra que la música de tradición académica hecha en Venezuela tiene las herramientas para competir al más alto nivel.</p>
+	  <p>Asimismo, la productora ejecutiva de la obra, Cora Capriles, ha resaltado en entrevistas que este proyecto independiente se hizo con el objetivo de mostrar el talento venezolano en los escenarios mas importantes del mundo.</p>
+	  <p><strong>La contienda final</strong></p>
+	  <p>Los ganadores de esta entrega de premios se darán a conocer el próximo 14 de noviembre en el Kaseya Center de Miami. Dentro del reglón dedicado a la música clásica, la producción compartirá casilla con propuestas de alto calibre global como Fandango de la Filarmónica de Los Ángeles bajo la dirección de Gustavo Dudamel, Aire, Aire… No Puedo Respirar interpretado por la Sinfónica Nacional de Colombia, Credo de la Filarmónica de Guayaquil y el trabajo solista del pianista Jorge Meza.</p>
+	  <p>Para quienes disfrutan de una buena melodía y del sonido instrumental, este proyecto es una recomendación obligatoria. La obra está disponible en las principales plataformas digitales, ofreciendo una gran oportunidad para escuchar una interpretación llena de emoción, elegancia y muchísima calidad.</p>
+
+	     image:
+		 date:"22 de octubre, 2026"
+	     feautured: false
+	    },
+ {	 
+	  id:16,
+	  slug:"sueldo-minimo",
+	  category:"Venezuela"
+	  title:"Sueldo mínimo de 130 bolívares genera disconformidad en los trabajadores del estado Lara"
+	  excerpt:"El sueldo mínimo de 130 bolívares empuja a los trabajadores en Lara hacia el comercio informal para sobrevivir"
+	  body:`<p>Con un sueldo mínimo de 130 bolívares que se evapora al instante y una canasta alimentaria que supera los 750 dólares, vivir en el estado Lara se ha vuelto un desafío diario. El último informe del Centro de Documentación y Análisis Social de la Federación Venezolana de Maestros (Cendas-FVM) reveló que en la región se necesitan más de 4.800 salarios base tan solo para comer.</p>
+	  <p>Esta brecha puso contra la pared a los trabajadores, quienes sienten que tener un empleo formal ya no alcanza para el sustento. Entre bonos del gobierno que no cuentan con las prestaciones y negocios que no pueden aumentar los sueldos sin irse a la quiebra, la única salida para muchos ha sido rebuscarse el dinero en la calle.</p>
+	  <p>Para las empresas en Barquisimeto, cumplir con la ley y pagar a sus trabajadores es todo un reto. Angie Marchan, contadora de la empresa Bargomca, lo explica desde la realidad estadística: “Ese monto representa algo muy mínimo para lo que es el costo de la vida hoy en día. Esto nos impide indexar el salario base porque no solo tenemos gastos en el personal, también en servicios básicos como agua, luz, materia prima y el mantenimiento del galpón. Todo eso va sumando en dinero que debemos desembolsar para mantener a flote el negocio”.</p>
+	  <p>Asimismo, la contadora advierte sobre los riesgos de sustituir el salario por bonos o ayudas de trasporte, señalando que este mecanismo afecta seriamente a los trabajadores a largo plazo, ya que los fondos de prestaciones sociales, liquidaciones y utilidades solo se incrementan cuando se ajusta el sueldo base y no mediante asignaciones no salariales como el cestaticket.</p>
+	  <p>Ante la dificultad de sostener una familia, Robert Rojas, vendedor de un puesto informal en la Universidad Pedagógica Experimental Libertador (UPEL) busca de esta manera el sustento para su hogar: “Aceptar un trabajo formal es regalar el tiempo. Aquí adentro, vendiéndole café y chucherías a los estudiantes y profesores resuelvo con pago móvil y algún dólar”.</p>
+	  <p>“Con la inflación y los precios subiendo a cada rato, es una lucha constante para reponer el inventario, pero prefiero guerrear por mi cuenta antes de cobrar una cantidad de plata que no cubre nada”, afirma el vendedor.</p>
+	  <p>El desplome del ingreso castiga sin piedad a los educadores. Oscar Padilla, un profesor jubilado de 75 años y con 25 años de trayectoria en la UPEL, recuerda cuando la profesión garantizaba estabilidad: “Uno en aquel tiempo tenia buen estatus social, una caja de ahorro y yo por lo menos compré dos apartamentos y camionetas. Ahora la vida me cambió tanto, la pensión de 130 bolívares y los bonos fraccionados no alcanzan para la dieta básica ni los medicamentos. Terminamos dependiendo de nuestras familias”, comentó el educador.</p>
+	  <p>La realidad en Lara deja claro que las bonificaciones de fin de mes no alcanzan para frenar de golpe ni evitan que la gente termine vendiendo en la calle para sobrevivir. Mientras los maestros y trabajadores siguen protestando por un aumento en la paga que valga la pena, en el día a día de los larenses no queda de otra que ingeniarse estrategias de venta por cuenta propia y así no quedarse con los bolsillos vacíos.</p>
+	  
+          image:
+		  date:"29 de octubre,2026"
+		  feautured: false
+         },
+ {	 
+      id:17,
+	  slug:"Concierto-de-guitarra"
+	  category:"Cultura"
+	  title:"Concierto de guitarra clásica une a jóvenes músicos y a Valmore Nieves"
+	  excerpt:"En Cabudare, jóvenes músicos y el maestro Valmore Nieves protagonizaron un recital de guitarra clásica en su honor"
+	  body:`<p>El evento comenzó a las 9:20 a.m. y sirvió tanto para mostrar el talento de la nueva generación de guitarrista como para rendir un homenaje en vida al maestro Valmore Nieves. Ante los murmullos que había en la sala, el público se encontraba expectante del inicio de la presentación.</p>
+	  <p>Este sábado 31 de octubre, las instalaciones del Colegio 19 de abril, ubicado en Cabudare, se convirtieron en el escenario de un concierto exclusivo de guitarra clásica que reunió a poco más de veinte personas, entre las cuales se encontraban profesores, personal administrativo, amigos y aficionados a la música.</p>
+	  <p>La apertura estuvo a cargo de José Matías López, joven de 15 años y estudiante de la academia del maestro Nieves. Un silencio absoluto se apoderó del salón apenas se escuchó el primer acorde. Desde ese instante, López interpretó piezas como Nostalgia de Rodrigo Riera, un arreglo del maestro Alirio Diaz titulado Adiós, mariposas y, por último, el vals Natalia.</p>
+	  <p>Para continuar con la jornada, se subió al escenario el organizador del evento, Daniel Meléndez, quien luego de dar unas palabras y de recordar su estancia como estudiante en aquella institución, finalizó al borde de las lágrimas. Luego de su mensaje, tocó una pieza que conoció en Maracay junto al Dúo Yacambú y que compuso con el maestro Pablo Maldonado, además de recrear la obra Tonada de despedida y su repertorio de valses.</p>
+	  <p>El espectáculo musical siguió con la presentación de Juan David Vergara, también alumno formado en las filas de la academia de Valmore Nieves. Con una ejecución pulcra, Vergara cautivó la atención del auditorio, destacando su interpretación emotiva del preludio de Rodrigo Riera.</p>
+	  <p><strong>Homenaje al legado</strong></p>
+	  <p>Durante el intermedio, la emoción del recital dio paso a un momento muy especial, la entrega de un cuadro de reconocimiento al maestro Nieves. En representación del pintor Armando Villalón, Jackelyn Bello le hizo entrega de este presente para conmemorar su gran trayectoria.</p>
+	  <p>Para cerrar la mañana con broche de oro, el maestro tomó la guitarra y se adueñó del ambiente. Este regaló al público presente una sólida interpretación de cuatro obras del maestro Rodrigo Riera, un preludio, una canción caroreña, un choro escrito en homenaje a Héctor Villalobos y el primer merengue venezolano compuesto para guitarra. Para finalizar, tocó La casa de los naranjos, una pieza propia que culminó entre los aplausos de pie de todos los presentes.</p>
+	  <p><strong>El futuro de la guitarra larense</strong></p>
+	  <p>Al ser consultado sobre el origen del movimiento guitarrístico cabudareño, Daniel Meléndez explicó que este nació hace cuatro años con la clara intención de descentralizar la formación musical: “Sé lo que es viajar todos los días de Cabudare a Barquisimeto y no quiero que otros jóvenes pasen por lo mismo”.</p>
+	  <p>Este esfuerzo colectivo hoy da vida a la Orquesta de Guitarras Rodrigo Riera, un proyecto inclusivo que no solo reúne a adultos mayores, sino que abraza a mas de 20 niños y jóvenes en formación, sumando cerca de 40 guitarras activas en la zona.</p>
+	  <p>Por su parte, el maestro Valmore Nieves reflexionó sobre el legado caroreño, definiéndolo como la preservación de una dinastía guitarrística que se ha transmitido de generación en generación, desde la llegada de los españoles a Carora.</p>
+	  <p>“Ver que muchachos como Daniel hoy están enseñando, abriendo caminos y regalándole oportunidades a las nuevas generaciones me llena de una felicidad inmensa”, destacó Nieves.</p>
+      <p>Con el concierto terminado, los asistentes se fueron despidiendo entre abrazos y fotografías. La mañana en Colegio 19 de abril demostró que el legado no es solo un recuerdo, sino algo que se contagia, y mientras haya profesores dispuestos a enseñar y jóvenes con ganas de tocar, la guitarra seguirá sonando fuerte en cada rincón de la ciudad.</p>
+
+	       image:
+		   date:"5 de noviembre, 2026"
+	       feautured: false
+	      },
+  {
+	  id:18
+	  slug:
+
+
 ];  
 
 // ── UTILS ──────────────────��──────────────────────────────────
