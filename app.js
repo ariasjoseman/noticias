@@ -243,10 +243,10 @@ const NEWS = [
 	<p>Winder Lugo, CEO de Venezuela The Show, expresó cómo surgió la idea del modo de juego: “Este proyecto nació del sueño de jugar con nuestros equipos venezolanos en las consolas”. Agregó que el, junto a su equipo de trabajo, duran de tres a cuatro meses para crear entre setenta y setenta y cinco jugadores desde cero, permitiendo que incluso venezolanos en el extranjero puedan conectar y representar a sus equipos.</p>
 	<p>En el evento estuvieron tanto participantes experimentados como promesas emergentes. Albert Guevara, bicampeón de certámenes anteriores, destacó la competitividad de este año: “El nivel de esta edición fue altísimo. Enfrentar a jugadores que practican todo el año para ganar el primer lugar demuestra lo mucho que ha crecido la comunidad gamer en el país”.</p>
 	<p>Además, habló de lo importante que es la competencia para él, logrando en parte, cumplir su aspiración de llegar a ser un beisbolista profesional y portar la camiseta de su equipo favorito.</p>
-	<p>Esta competición creada por VZLA The Show y organizada por la LVBP, reafirma el poderío que tienen los deportes electrónicos y la alianza entre el beisbol tradicional y los videojuegos en Venezuela.</p>
+	<p>Esta competición creada por VZLA The Show y organizada por la LVBP, reafirma el poderío que tienen los deportes electrónicos y la alianza entre el beisbol tradicional y los videojuegos en Venezuela.</p>`,
 
-	  image:
-	  date: "12 de septiembre, 2026"
+	  image: "",
+	  date: "12 de septiembre, 2026",
 	  featured: false
 	},
 {
@@ -263,10 +263,10 @@ const NEWS = [
     <p>“El secreto es hacer todo al pie de la letra, mantener la materia prima al día y hornear el tiempo adecuado”, afirma el artesano.</p>
     <p>A lo largo de las décadas, por sus hornos han pasado marcas como El Gordo Alex, Joao Burguer, Tatos Street Food y Sofia Burguer, afianzándose como el sello por excelencia del platillo barquisimetano.</p>
     <p>Bajo el trabajo, el compromiso y la calidad, la Perla do Atlántico y sus panes han sido parte de muchas cenas y momentos importantes para las personas, convirtiéndose parte de esta rica tradición culinaria.</p>
-    <p>Para los fanáticos de la comida callejera, saber que un pepito está elaborado con un pan de “La Perla” es señal de garantía, debido a ser crujiente por fuera y suave por dentro, no desarmarse con el relleno y su combinación con las salsas. Todo junto es totalmente recomendado.</p>
+    <p>Para los fanáticos de la comida callejera, saber que un pepito está elaborado con un pan de “La Perla” es señal de garantía, debido a ser crujiente por fuera y suave por dentro, no desarmarse con el relleno y su combinación con las salsas. Todo junto es totalmente recomendado.</p>`,
 
-      image:
-	  date:"24 de septiembre, 2026"
+      image: "",
+	  date:"24 de septiembre, 2026",
       featured: false
      },
 { 
@@ -281,10 +281,10 @@ const NEWS = [
 	 <p>Ya en los instantes finales de la prórroga, la Canarinha logró encajar dos goles, llevándose la victoria y el campeonato.</p>
 	 <p>“Orgulloso de las muchachas por el trabajo y la entrega que hicieron para llegar a estas instancias definitivas. A pesar del corto tiempo de trabajo que tuvimos, la selección va a seguir trabajando, va a seguir luchando para prepararse mejor”, comentó Mike Guerra, entrenador de la selección venezolana.</p>
 	 <p>Por el lado de Brasil, llegó a la final de manera invicta, logrando por quinta vez la final de la competición luego de derrotar a Colombia en las semifinales. Mientras que el camino de Venezuela comenzó con tres victorias y una derrota ante la misma selección de Brasil, y tras derrotar a Argentina en las semis, alcanzó el tan ansiado partido.</p>
-	 <p>La Vinotinto finalizó el torneo con resultado histórico, siendo la primera vez que consiguen el subcampeonato, dejando un legado para el recuerdo.</p>
+	 <p>La Vinotinto finalizó el torneo con resultado histórico, siendo la primera vez que consiguen el subcampeonato, dejando un legado para el recuerdo.</p>`,
 
-	   image:
-	   date:"20 de septiembre, 2026"
+	   image:,
+	   date:"20 de septiembre, 2026",
 	   feautured: false
 	  },
 
@@ -302,10 +302,10 @@ const NEWS = [
 	 <p><strong>Puntos para tener en cuenta</strong></p>
 	 <p>Sin embargo, uno de los desafíos principales de esta actividad es el precio de los boletos. Con un costo de diez dólares, el valor del bono se convierte en una disyuntiva para el larense común, considerando la realidad financiera actual. No obstante, la organización busca equilibrar la balanza mediante un atractivo costo-beneficio, debido a la cantidad de premios que hay como un auto cero kilómetros, motocicletas, artefactos electrónicos y a la ayuda que se realiza al seminario.</p>
 	 <p>Para quienes evalúen su participación, la recomendación es abordar el evento desde una perspectiva de apoyo comunitario. Si el presupuesto lo permite, adquirir el bono en las parroquias es una inversión social justificada, de lo contrario se aconseja no aislarse y sumarse de igual forma a la carrera matutina como un gratuito de reencuentro ciudadano.</p>
-	 <p>Sumado a esto, ayuda a los negocios de productos religiosos a darse a conocer, sea un emprendimiento grande o uno que apenas está comenzando, elevando así su exposición. Con los conferencistas y la eucaristía, el público puede aprender un poco más de la palabra y acercarse al camino de Dios. Este FestiFe promete ser un evento para elevar la fe, la solidaridad y la ayuda al prójimo llegando a ser un acto de caridad para las parroquias y para todos los católicos.	 
+	 <p>Sumado a esto, ayuda a los negocios de productos religiosos a darse a conocer, sea un emprendimiento grande o uno que apenas está comenzando, elevando así su exposición. Con los conferencistas y la eucaristía, el público puede aprender un poco más de la palabra y acercarse al camino de Dios. Este FestiFe promete ser un evento para elevar la fe, la solidaridad y la ayuda al prójimo llegando a ser un acto de caridad para las parroquias y para todos los católicos.	 `,
 
-		image:
-	    date:"8 de octubre, 2026"
+		image:,
+	    date:"8 de octubre, 2026",
 	    feautured: false
 	  },
  {
@@ -313,7 +313,7 @@ const NEWS = [
 	  slug:"Remontada-de-cardenales",
 	  category:"deportes",
 	  title:"Remontada de Cardenales ante bravos en su primer juego de la LVBP",
-	  excerpt:"Cardenales de Lara remontó en la novena entrada para vencer 4-3 a Bravos de Margarita en el inicio de la LVBP"
+	  excerpt:"Cardenales de Lara remontó en la novena entrada para vencer 4-3 a Bravos de Margarita en el inicio de la LVBP",
 	  body:`<p>Este 14 de octubre, los Cardenales de Lara comenzaron su primer juego de la temporada 2026/27 de la Liga Venezolana de Béisbol Profesional (LVBP) con una remontada en el juego ante los Bravos de Margarita por un resultado final de cuatro a tres. En un Estadio Antonio Herrera Gutiérrez de Barquisimeto con mas de 12.000 fanáticos alentando a su equipo, la novena larense logro llevarse el juego en la ultima entrada.</p>
 	  <p>El duelo se tornó intenso desde el playball, el cuadro margariteño se colocaría por delante en el marcador con un jonrón por todo el jardín izquierdo del jugador Diosbel Arias, bajando un poco el animo del público. Sin embargo, los guaros responderían rápido con un imparable remolcador del estadounidense Spencer Packard para empatar el partido.</p>
 	  <p>Los pájaros rojos siguieron bateando con fuerza tras un cuadrangular por el right field de Danry Vásquez y con un rodado productivo hacia el campocorto de Diego Castillo para traer a Rangel Ravelo al home plate y ampliar aún más la ventaja. Sin duda, Cardenales comenzó el encuentro con ganas de llevárselo desde el primer lanzamiento.</p>
@@ -324,18 +324,18 @@ const NEWS = [
 	  <p>Desde la lomita, la gran figura cardenalera fue el abridor zurdo Adrián Almeida, quien durante cinco entradas completas demostró su jerarquía. El pitcher únicamente permitió una carrera limpia y tres imparables e hizo abanicar a diez bateadores, registrando así su marca personal de ponches en un encuentro de la LVBP.</p>
 	  <p>“Aprendí de la experiencia de la temporada pasada. Me preparé muy fuerte antes de venir a Venezuela, pero no sentí la presión esta noche. Era un juego más, aunque con mayor responsabilidad”, comentó el lanzador tras su primer juego.</p>
 	  <p>Asimismo, el mánager de Cardenales, Cesar Isturiz, destacó la actitud del grupo dentro del campo, quienes demostraron madurez en un primer juego que eleva las emociones.</p>
-	  <p>De esta manera, el nido barquisimetano celebró la primera conquista de la temporada en una noche donde el carácter y el bateo oportuno marcaron la diferencia. Cardenales de Lara inicia la temporada de la mejor manera, demostrando desde el primer juego las credenciales para pelear el título.</p>
+	  <p>De esta manera, el nido barquisimetano celebró la primera conquista de la temporada en una noche donde el carácter y el bateo oportuno marcaron la diferencia. Cardenales de Lara inicia la temporada de la mejor manera, demostrando desde el primer juego las credenciales para pelear el título.</p>`,
 
-        image:
-		date:"15 de octubre, 2026"
+        image:,
+		date:"15 de octubre, 2026",
 		feautured: false
 	   },
  {   
       id:15,
-	  slug:"Gregorio-nieto-violonchelista"
-	  category:"cultura"
-	  title:"Gregorio Nieto: el violonchelista barquisimetano nominado a los Latin Grammy"
-	  excerpt:"El violonchelista barquisimetano Gregorio Nieto logra su primera nominación al Latin Grammy"
+	  slug:"Gregorio-nieto-violonchelista",
+	  category:"cultura",
+	  title:"Gregorio Nieto: el violonchelista barquisimetano nominado a los Latin Grammy",
+	  excerpt:"El violonchelista barquisimetano Gregorio Nieto logra su primera nominación al Latin Grammy",
 	  body:`<p>La gran creación artística y musical del estado Lara ha alcanzado un nuevo hito internacional. El violonchelista barquisimetano Gregorio Nieto fue nominado a la vigesimoséptima edición de los premios Latin Grammy.</p>
 	  <p>Este reconocimiento entregado por La Academia Latina de la Grabación, el 17 de septiembre postuló a la producción Opus 33 – Romantic Cello en la categoría de Mejor Álbum de Música Clásica.</p>
 	  <p>Aunque el guaro es el musico principal y el protagonista absoluto del disco, obtuvo la ayuda de la London Symphony Orchestra, una organización ubicada en Londres y que es una de las orquestas sinfónicas mas famosas, prestigiosas y antiguas del mundo. Además, en el proyecto estuvo trabajando el maestro y percusionista español Josep Vicent, quien fue el encargado de dirigir a la agrupación británica en los estudios Abbey Road.</p>
@@ -346,18 +346,18 @@ const NEWS = [
 	  <p>Asimismo, la productora ejecutiva de la obra, Cora Capriles, ha resaltado en entrevistas que este proyecto independiente se hizo con el objetivo de mostrar el talento venezolano en los escenarios mas importantes del mundo.</p>
 	  <p><strong>La contienda final</strong></p>
 	  <p>Los ganadores de esta entrega de premios se darán a conocer el próximo 14 de noviembre en el Kaseya Center de Miami. Dentro del reglón dedicado a la música clásica, la producción compartirá casilla con propuestas de alto calibre global como Fandango de la Filarmónica de Los Ángeles bajo la dirección de Gustavo Dudamel, Aire, Aire… No Puedo Respirar interpretado por la Sinfónica Nacional de Colombia, Credo de la Filarmónica de Guayaquil y el trabajo solista del pianista Jorge Meza.</p>
-	  <p>Para quienes disfrutan de una buena melodía y del sonido instrumental, este proyecto es una recomendación obligatoria. La obra está disponible en las principales plataformas digitales, ofreciendo una gran oportunidad para escuchar una interpretación llena de emoción, elegancia y muchísima calidad.</p>
+	  <p>Para quienes disfrutan de una buena melodía y del sonido instrumental, este proyecto es una recomendación obligatoria. La obra está disponible en las principales plataformas digitales, ofreciendo una gran oportunidad para escuchar una interpretación llena de emoción, elegancia y muchísima calidad.</p>`,
 
-	     image:
-		 date:"22 de octubre, 2026"
+	     image:,
+		 date:"22 de octubre, 2026",
 	     feautured: false
 	    },
  {	 
 	  id:16,
 	  slug:"sueldo-minimo",
-	  category:"Venezuela"
-	  title:"Sueldo mínimo de 130 bolívares genera disconformidad en los trabajadores del estado Lara"
-	  excerpt:"El sueldo mínimo de 130 bolívares empuja a los trabajadores en Lara hacia el comercio informal para sobrevivir"
+	  category:"Venezuela",
+	  title:"Sueldo mínimo de 130 bolívares genera disconformidad en los trabajadores del estado Lara",
+	  excerpt:"El sueldo mínimo de 130 bolívares empuja a los trabajadores en Lara hacia el comercio informal para sobrevivir",
 	  body:`<p>Con un sueldo mínimo de 130 bolívares que se evapora al instante y una canasta alimentaria que supera los 750 dólares, vivir en el estado Lara se ha vuelto un desafío diario. El último informe del Centro de Documentación y Análisis Social de la Federación Venezolana de Maestros (Cendas-FVM) reveló que en la región se necesitan más de 4.800 salarios base tan solo para comer.</p>
 	  <p>Esta brecha puso contra la pared a los trabajadores, quienes sienten que tener un empleo formal ya no alcanza para el sustento. Entre bonos del gobierno que no cuentan con las prestaciones y negocios que no pueden aumentar los sueldos sin irse a la quiebra, la única salida para muchos ha sido rebuscarse el dinero en la calle.</p>
 	  <p>Para las empresas en Barquisimeto, cumplir con la ley y pagar a sus trabajadores es todo un reto. Angie Marchan, contadora de la empresa Bargomca, lo explica desde la realidad estadística: “Ese monto representa algo muy mínimo para lo que es el costo de la vida hoy en día. Esto nos impide indexar el salario base porque no solo tenemos gastos en el personal, también en servicios básicos como agua, luz, materia prima y el mantenimiento del galpón. Todo eso va sumando en dinero que debemos desembolsar para mantener a flote el negocio”.</p>
@@ -365,18 +365,18 @@ const NEWS = [
 	  <p>Ante la dificultad de sostener una familia, Robert Rojas, vendedor de un puesto informal en la Universidad Pedagógica Experimental Libertador (UPEL) busca de esta manera el sustento para su hogar: “Aceptar un trabajo formal es regalar el tiempo. Aquí adentro, vendiéndole café y chucherías a los estudiantes y profesores resuelvo con pago móvil y algún dólar”.</p>
 	  <p>“Con la inflación y los precios subiendo a cada rato, es una lucha constante para reponer el inventario, pero prefiero guerrear por mi cuenta antes de cobrar una cantidad de plata que no cubre nada”, afirma el vendedor.</p>
 	  <p>El desplome del ingreso castiga sin piedad a los educadores. Oscar Padilla, un profesor jubilado de 75 años y con 25 años de trayectoria en la UPEL, recuerda cuando la profesión garantizaba estabilidad: “Uno en aquel tiempo tenia buen estatus social, una caja de ahorro y yo por lo menos compré dos apartamentos y camionetas. Ahora la vida me cambió tanto, la pensión de 130 bolívares y los bonos fraccionados no alcanzan para la dieta básica ni los medicamentos. Terminamos dependiendo de nuestras familias”, comentó el educador.</p>
-	  <p>La realidad en Lara deja claro que las bonificaciones de fin de mes no alcanzan para frenar de golpe ni evitan que la gente termine vendiendo en la calle para sobrevivir. Mientras los maestros y trabajadores siguen protestando por un aumento en la paga que valga la pena, en el día a día de los larenses no queda de otra que ingeniarse estrategias de venta por cuenta propia y así no quedarse con los bolsillos vacíos.</p>
+	  <p>La realidad en Lara deja claro que las bonificaciones de fin de mes no alcanzan para frenar de golpe ni evitan que la gente termine vendiendo en la calle para sobrevivir. Mientras los maestros y trabajadores siguen protestando por un aumento en la paga que valga la pena, en el día a día de los larenses no queda de otra que ingeniarse estrategias de venta por cuenta propia y así no quedarse con los bolsillos vacíos.</p>`,
 	  
-          image:
-		  date:"29 de octubre,2026"
-		  feautured: false
+          image:,
+		  date:"29 de octubre,2026",
+		  feautured: false,
          },
  {	 
       id:17,
-	  slug:"Concierto-de-guitarra"
-	  category:"Cultura"
-	  title:"Concierto de guitarra clásica une a jóvenes músicos y a Valmore Nieves"
-	  excerpt:"En Cabudare, jóvenes músicos y el maestro Valmore Nieves protagonizaron un recital de guitarra clásica en su honor"
+	  slug:"Concierto-de-guitarra",
+	  category:"Cultura",
+	  title:"Concierto de guitarra clásica une a jóvenes músicos y a Valmore Nieves",
+	  excerpt:"En Cabudare, jóvenes músicos y el maestro Valmore Nieves protagonizaron un recital de guitarra clásica en su honor",
 	  body:`<p>El evento comenzó a las 9:20 a.m. y sirvió tanto para mostrar el talento de la nueva generación de guitarrista como para rendir un homenaje en vida al maestro Valmore Nieves. Ante los murmullos que había en la sala, el público se encontraba expectante del inicio de la presentación.</p>
 	  <p>Este sábado 31 de octubre, las instalaciones del Colegio 19 de abril, ubicado en Cabudare, se convirtieron en el escenario de un concierto exclusivo de guitarra clásica que reunió a poco más de veinte personas, entre las cuales se encontraban profesores, personal administrativo, amigos y aficionados a la música.</p>
 	  <p>La apertura estuvo a cargo de José Matías López, joven de 15 años y estudiante de la academia del maestro Nieves. Un silencio absoluto se apoderó del salón apenas se escuchó el primer acorde. Desde ese instante, López interpretó piezas como Nostalgia de Rodrigo Riera, un arreglo del maestro Alirio Diaz titulado Adiós, mariposas y, por último, el vals Natalia.</p>
@@ -390,18 +390,18 @@ const NEWS = [
 	  <p>Este esfuerzo colectivo hoy da vida a la Orquesta de Guitarras Rodrigo Riera, un proyecto inclusivo que no solo reúne a adultos mayores, sino que abraza a mas de 20 niños y jóvenes en formación, sumando cerca de 40 guitarras activas en la zona.</p>
 	  <p>Por su parte, el maestro Valmore Nieves reflexionó sobre el legado caroreño, definiéndolo como la preservación de una dinastía guitarrística que se ha transmitido de generación en generación, desde la llegada de los españoles a Carora.</p>
 	  <p>“Ver que muchachos como Daniel hoy están enseñando, abriendo caminos y regalándole oportunidades a las nuevas generaciones me llena de una felicidad inmensa”, destacó Nieves.</p>
-      <p>Con el concierto terminado, los asistentes se fueron despidiendo entre abrazos y fotografías. La mañana en Colegio 19 de abril demostró que el legado no es solo un recuerdo, sino algo que se contagia, y mientras haya profesores dispuestos a enseñar y jóvenes con ganas de tocar, la guitarra seguirá sonando fuerte en cada rincón de la ciudad.</p>
+      <p>Con el concierto terminado, los asistentes se fueron despidiendo entre abrazos y fotografías. La mañana en Colegio 19 de abril demostró que el legado no es solo un recuerdo, sino algo que se contagia, y mientras haya profesores dispuestos a enseñar y jóvenes con ganas de tocar, la guitarra seguirá sonando fuerte en cada rincón de la ciudad.</p>`,
 
-	       image:
-		   date:"5 de noviembre, 2026"
+	       image:,
+		   date:"5 de noviembre, 2026",
 	       feautured: false
 	      },
   {
-	  id:18
-	  slug:"Novia-UNY"
-	  category:"cultura"
-	  title:"Nathaly Rodríguez se coronó como la nueva Novia UNY 2026"
-	  excerpt:"Nathaly Rodríguez, de Ingeniería Industrial, se coronó como la nueva Novia de la UNY 2026."
+	  id:18,
+	  slug:"Novia-UNY",
+	  category:"cultura",
+	  title:"Nathaly Rodríguez se coronó como la nueva Novia UNY 2026",
+	  excerpt:"Nathaly Rodríguez, de Ingeniería Industrial, se coronó como la nueva Novia de la UNY 2026.",
 	  body:`<p>El lunes 9 de noviembre se celebró la coronación de la Novia UNY, una ceremonia marcada por la elegancia, el talento y un profundo sentimiento de pertenencia hacia la Universidad Yacambú. El evento, realizado en el Salón Libertador de la sede Mora I en Cabudare, culminó con el triunfo de la bachiller Nathaly Rodríguez, representante de Ingeniería Industrial, como la nueva reina de la institución.</p>
 	  <p>La gala inició a las 3:01 de la tarde, ante un público eufórico que llenó las gradas con pancartas y gritos de aliento. De un grupo inicial de 33 aspirantes, 15 finalistas llegaron a esta instancia tras más de un mes de preparación en oratoria, pasarela y desarrollo personal, representando a las distintas facultades que hay en la universidad. Desde su primera salida, las jóvenes destacaron el lema institucional de inteligencia, compromiso y belleza con propósito.</p>
 	  <p>El espectáculo contó con el talento musical de la casa de estudios a través de los ganadores de la Voz UNY 2026, Gabriel Chamy y Ámbar Camacho, quienes interpretaron Vale la pena y Cómo olvidar. Asimismo, se rindió homenaje al talento universitario con la canción Tú, acompañada por un mensaje en video de Daniela Rodríguez, ganadora internacional 2026 y la presencia especial de Karen Piñerua, Novia UNY 2024.</p>
@@ -409,36 +409,36 @@ const NEWS = [
 	  <p>Las palabras iniciales estuvieron a cargo del rector Juan Pedro Pereira, quien comentó que el certamen marca el inicio de las actividades conmemorativas: “Con esta apertura y esta edición del Novia UNY 2026, damos un paso y la apertura a lo que va a ser este mes aniversario de la Universidad Yacambú”. Añadió que el evento mejora cada año al integrar tanto a la comunidad universitaria como a la sociedad civil.</p>
 	  <p>Por su parte, la nueva reina expresó su alegría: “Estoy totalmente agradecida y orgullosa de portar la banda. Estoy segura de que la voy a representar con muchísimo orgullo, con muchísima dedicación, disciplina y excelencia, ya que esto significa representar a todo el personal que hace vida en la Universidad Yacambú y ser la voz de todos los estudiantes”. Además, destacó los valores éticos que promueve la casa de estudios y agradeció el apoyo de su familia.</p>
 	  <p>Para quienes deseen disfrutar de una tarde cargada de música, entretenimiento y energía estudiantil, la Novia UNY se presenta como una cita imperdible dentro de la agenda cultural de la ciudad. El espectáculo resulta ideal tanto para la comunidad universitaria como para familiares y público general que busque apreciar el talento artístico local en un ambiente cercano y participativo.</p>
-	  <p>Si planea asistir a futuras ediciones de este encuentro en el, lo más recomendable es llegar con suficiente antelación, debido a que las gradas suelen llenarse antes de la hora pautada. De igual forma, acudir acompañado de familiares o amigos permitirá sumarse con mayor entusiasmo a la dinámica de barras que caracteriza a esta gala.</p>
+	  <p>Si planea asistir a futuras ediciones de este encuentro en el, lo más recomendable es llegar con suficiente antelación, debido a que las gradas suelen llenarse antes de la hora pautada. De igual forma, acudir acompañado de familiares o amigos permitirá sumarse con mayor entusiasmo a la dinámica de barras que caracteriza a esta gala.</p>`,
 
-	       image:
-		   date: "12 de noviembre, 2026"
+	       image:,
+		   date: "12 de noviembre, 2026",
 		   feautured: false
 		  },
  {
-     ESTA ES LA QUE HAY QUE CREAR UNA NUEVA SECCION LLAMADA AL DESCUBIERTO, TRATA DE INFORMACIONES FALSAS
-	 SI TIENES OTRA PROPUESTA PARA EL NOMBRE, ADELANTE 
+  //   ESTA ES LA QUE HAY QUE CREAR UNA NUEVA SECCION LLAMADA AL DESCUBIERTO, TRATA DE INFORMACIONES FALSAS
+	// SI TIENES OTRA PROPUESTA PARA EL NOMBRE, ADELANTE 
 	  id:19,
-	  slug:"IMMJUVI-rumor"
-	  category: "Venezuela"
-	  title:"No hay anuncio oficial de IMJUVI sobre la solicitud de equipos electrónicos"
-	  excerpt:"Es falso que IMJUVI esté regalando laptops o teléfonos por solicitud; la institución solo ha entregado kits escolares en Lara."
+	  slug:"IMMJUVI-rumor",
+	  category: "Al Descubierto",
+	  title:"No hay anuncio oficial de IMJUVI sobre la solicitud de equipos electrónicos",
+	  excerpt:"Es falso que IMJUVI esté regalando laptops o teléfonos por solicitud; la institución solo ha entregado kits escolares en Lara.",
 	  body:`<p>Los dias 12 y 13 de noviembre empezó a circular una información en cadenas de whatsapp sobre la alcaldía de Iribarren y el Instituto Municipal para la Juventud Iribarren (IMJUVI), en la cual se decía que iban regalar laptops, computadoras, útiles escolares, becas, tablets y teléfonos como una ayuda para jóvenes de 15 años en adelante.</p>
 	  <p>Este apoyo se solicitaba mediante una carta al alcalde del municipio Iribarren, Yanys Agüero y con atención al Licenciado Esleiter Perez, presidente de IMJUVI.</p>
 	  <p>Dicha información esta descontextualizada, debido a que en la cuenta de Instagram de IMJUVI no hay registros recientes sobre la entrega de artículos electrónicos mediante una solicitud. Además, no existe una noticia oficial en la que la alcaldía o la institución hagan mención sobre esta ayuda.</p>
 	  <p>Lo verídico de este mensaje es la entrega de kits escolares a los colegios de la región. La institución ha publicado en sus redes sociales imágenes sobre sus donaciones a las escuelas; Raquel Monasterio y la Unidad Educativa Escuela Juarez.</p>
-	  <p>Este mensaje ha sido compartido con la intención de engañar al pueblo larense, dejando una mala imagen a las instituciones encargadas de realizar las actividades de apoyo.</p>
+	  <p>Este mensaje ha sido compartido con la intención de engañar al pueblo larense, dejando una mala imagen a las instituciones encargadas de realizar las actividades de apoyo.</p>`,
 
-	       image:
-		   date: "19 de noviembre, 2026"
-	       feautured: false 
+	       image:,
+		   date: "19 de noviembre, 2026",
+	       feautured: false ,
 	       },
  {
 	  id:20,
-	  slug:"Boca-campeón"
-	  category:"deportes"
-	  title:"Boca Juniors vence 2-0 a Atletico Mineiro y gana la Sudamericana 2026"
-	  excerp:"Boca Juniors derrotó 2-0 a Atlético Mineiro en Barranquilla y cortó 18 años sin títulos internacionales."
+	  slug:"Boca-campeón",
+	  category:"deportes",
+	  title:"Boca Juniors vence 2-0 a Atletico Mineiro y gana la Sudamericana 2026",
+	  excerp:"Boca Juniors derrotó 2-0 a Atlético Mineiro en Barranquilla y cortó 18 años sin títulos internacionales.",
 	  body:`<p>El calor caribeño pesaba sobre Barranquilla mientras miles de aficionados colmaban los alrededores del Estadio Metropolitano Roberto Meléndez. El escenario recibía por primera vez una final única de un torneo continental, y el contraste en las tribunas era evidente. El empuje brasileño del Atlético Mineiro tenía enfrente a la mística y el volumen de la hinchada de Boca Juniors.</p>
 	  <p>El duelo, disputado el sábado 21 de noviembre por el campeonato de la CONMEBOL Sudamericana 2026, enfrentaba dos realidades muy marcadas. Boca Juniors llegaba con la ambición de conquistar su tercer trofeo tras lograrlo en 2004 y 2005 y cortar una sequía de títulos internacionales de 18 años. En el banquillo rival, el Atlético Mineiro de Eduardo Domínguez cargaba con el peso de haber perdido la final de la edición pasada ante Lanús y con la urgencia de sumar por fin la copa a su vitrina.</p>
 	  <p>Con esa carga sobre los hombros comenzó a rodar el balón. Desde los primeros minutos, el conjunto dirigido por Rodolfo Arruabarrena marcó el pulso con la posesión, la circulación en la mitad de la cancha y la profundidad por la banda izquierda. Antes de los dos minutos, Miguel Merentiel ya había avisado estrellando un remate en el travesaño tras un rebote que se le escapó al arquero Éverson.</p>
@@ -449,11 +449,11 @@ const NEWS = [
 	  <p>Tras el triunfo, el entrenador campeón Rodolfo Arruabarrena destacó el valor del título para toda la institución: “El club lo necesitaba. El hincha lo necesitaba. Los jugadores lo necesitábamos, todos lo necesitábamos, después de 18 años. Es una base importante para lo que viene. Es mérito exclusivo de los jugadores”. Además, dejó en claro que el grupo no se conformará y seguirá insistiendo para conseguir más alegrías.</p>
 	  <p>Asimismo, el capitán argentino Leandro Paredes puso en palabras la carga emocional de regresar y coronar con la gente: “Es lo más importante, sin duda, por lo que significa para mí este club, por lo que significa volver a ganar un título internacional después de mucho tiempo, por todo el esfuerzo que hicimos. La verdad que estoy feliz, orgulloso de ser parte de este grupo”.</p>
 	  <p>En la otra cara de la moneda, Eduardo Domínguez apuntó a la falta de soltura inicial de su equipo y al golpe que tuvo encajar el segundo gol apenas reanudado el juego: “Más allá de que nos hicieron un gol de pelota parada, desde afuera daba la sensación de que nuestro equipo entró tensionado, nervioso, y ellos jugaron natural”.</p>
-	  <p>Así se cerró una final decisiva en Barranquilla, donde Boca Juniors rompió su espera internacional con autoridad, administró los tiempos clave y confirmó que la contundencia en los momentos justos marca la diferencia en las grandes noches continentales.</p>
+	  <p>Así se cerró una final decisiva en Barranquilla, donde Boca Juniors rompió su espera internacional con autoridad, administró los tiempos clave y confirmó que la contundencia en los momentos justos marca la diferencia en las grandes noches continentales.</p>`,
 
-	       image:
-		   date: "21  de noviembre, 2026"
-		   feautured: true
+	       image:,
+		   date: "21  de noviembre, 2026",
+		   feautured: true,
 	  
 	 
 
