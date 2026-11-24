@@ -230,7 +230,7 @@ const NEWS = [
 
 	 image:"negocios.jpeg",
 	 date: "4 de noviembre, 2026",
-	 featured: true
+	 featured: false
 	},
 {
 	id:10,
@@ -398,8 +398,64 @@ const NEWS = [
 	      },
   {
 	  id:18
-	  slug:
+	  slug:"Novia-UNY"
+	  category:"cultura"
+	  title:"Nathaly Rodríguez se coronó como la nueva Novia UNY 2026"
+	  excerpt:"Nathaly Rodríguez, de Ingeniería Industrial, se coronó como la nueva Novia de la UNY 2026."
+	  body:`<p>El lunes 9 de noviembre se celebró la coronación de la Novia UNY, una ceremonia marcada por la elegancia, el talento y un profundo sentimiento de pertenencia hacia la Universidad Yacambú. El evento, realizado en el Salón Libertador de la sede Mora I en Cabudare, culminó con el triunfo de la bachiller Nathaly Rodríguez, representante de Ingeniería Industrial, como la nueva reina de la institución.</p>
+	  <p>La gala inició a las 3:01 de la tarde, ante un público eufórico que llenó las gradas con pancartas y gritos de aliento. De un grupo inicial de 33 aspirantes, 15 finalistas llegaron a esta instancia tras más de un mes de preparación en oratoria, pasarela y desarrollo personal, representando a las distintas facultades que hay en la universidad. Desde su primera salida, las jóvenes destacaron el lema institucional de inteligencia, compromiso y belleza con propósito.</p>
+	  <p>El espectáculo contó con el talento musical de la casa de estudios a través de los ganadores de la Voz UNY 2026, Gabriel Chamy y Ámbar Camacho, quienes interpretaron Vale la pena y Cómo olvidar. Asimismo, se rindió homenaje al talento universitario con la canción Tú, acompañada por un mensaje en video de Daniela Rodríguez, ganadora internacional 2026 y la presencia especial de Karen Piñerua, Novia UNY 2024.</p>
+	  <p>Tras el desfile en traje de gala y una decisiva ronda de preguntas que puso a prueba la firmeza y oratoria de las candidatas, los evaluadores emitieron su veredicto. Junto a Arianna Bravo y María Belén Rojas en el cuadro de finalistas, Nathaly Rodríguez recibió la corona entre ovaciones para cerrar la edición.</p>
+	  <p>Las palabras iniciales estuvieron a cargo del rector Juan Pedro Pereira, quien comentó que el certamen marca el inicio de las actividades conmemorativas: “Con esta apertura y esta edición del Novia UNY 2026, damos un paso y la apertura a lo que va a ser este mes aniversario de la Universidad Yacambú”. Añadió que el evento mejora cada año al integrar tanto a la comunidad universitaria como a la sociedad civil.</p>
+	  <p>Por su parte, la nueva reina expresó su alegría: “Estoy totalmente agradecida y orgullosa de portar la banda. Estoy segura de que la voy a representar con muchísimo orgullo, con muchísima dedicación, disciplina y excelencia, ya que esto significa representar a todo el personal que hace vida en la Universidad Yacambú y ser la voz de todos los estudiantes”. Además, destacó los valores éticos que promueve la casa de estudios y agradeció el apoyo de su familia.</p>
+	  <p>Para quienes deseen disfrutar de una tarde cargada de música, entretenimiento y energía estudiantil, la Novia UNY se presenta como una cita imperdible dentro de la agenda cultural de la ciudad. El espectáculo resulta ideal tanto para la comunidad universitaria como para familiares y público general que busque apreciar el talento artístico local en un ambiente cercano y participativo.</p>
+	  <p>Si planea asistir a futuras ediciones de este encuentro en el, lo más recomendable es llegar con suficiente antelación, debido a que las gradas suelen llenarse antes de la hora pautada. De igual forma, acudir acompañado de familiares o amigos permitirá sumarse con mayor entusiasmo a la dinámica de barras que caracteriza a esta gala.</p>
 
+	       image:
+		   date: "12 de noviembre, 2026"
+		   feautured: false
+		  },
+ {
+     ESTA ES LA QUE HAY QUE CREAR UNA NUEVA SECCION LLAMADA AL DESCUBIERTO, TRATA DE INFORMACIONES FALSAS
+	 SI TIENES OTRA PROPUESTA PARA EL NOMBRE, ADELANTE 
+	  id:19,
+	  slug:"IMMJUVI-rumor"
+	  category: "Venezuela"
+	  title:"No hay anuncio oficial de IMJUVI sobre la solicitud de equipos electrónicos"
+	  excerpt:"Es falso que IMJUVI esté regalando laptops o teléfonos por solicitud; la institución solo ha entregado kits escolares en Lara."
+	  body:`<p>Los dias 12 y 13 de noviembre empezó a circular una información en cadenas de whatsapp sobre la alcaldía de Iribarren y el Instituto Municipal para la Juventud Iribarren (IMJUVI), en la cual se decía que iban regalar laptops, computadoras, útiles escolares, becas, tablets y teléfonos como una ayuda para jóvenes de 15 años en adelante.</p>
+	  <p>Este apoyo se solicitaba mediante una carta al alcalde del municipio Iribarren, Yanys Agüero y con atención al Licenciado Esleiter Perez, presidente de IMJUVI.</p>
+	  <p>Dicha información esta descontextualizada, debido a que en la cuenta de Instagram de IMJUVI no hay registros recientes sobre la entrega de artículos electrónicos mediante una solicitud. Además, no existe una noticia oficial en la que la alcaldía o la institución hagan mención sobre esta ayuda.</p>
+	  <p>Lo verídico de este mensaje es la entrega de kits escolares a los colegios de la región. La institución ha publicado en sus redes sociales imágenes sobre sus donaciones a las escuelas; Raquel Monasterio y la Unidad Educativa Escuela Juarez.</p>
+	  <p>Este mensaje ha sido compartido con la intención de engañar al pueblo larense, dejando una mala imagen a las instituciones encargadas de realizar las actividades de apoyo.</p>
+
+	       image:
+		   date: "19 de noviembre, 2026"
+	       feautured: false 
+	       },
+ {
+	  id:20,
+	  slug:"Boca-campeón"
+	  category:"deportes"
+	  title:"Boca Juniors vence 2-0 a Atletico Mineiro y gana la Sudamericana 2026"
+	  excerp:"Boca Juniors derrotó 2-0 a Atlético Mineiro en Barranquilla y cortó 18 años sin títulos internacionales."
+	  body:`<p>El calor caribeño pesaba sobre Barranquilla mientras miles de aficionados colmaban los alrededores del Estadio Metropolitano Roberto Meléndez. El escenario recibía por primera vez una final única de un torneo continental, y el contraste en las tribunas era evidente. El empuje brasileño del Atlético Mineiro tenía enfrente a la mística y el volumen de la hinchada de Boca Juniors.</p>
+	  <p>El duelo, disputado el sábado 21 de noviembre por el campeonato de la CONMEBOL Sudamericana 2026, enfrentaba dos realidades muy marcadas. Boca Juniors llegaba con la ambición de conquistar su tercer trofeo tras lograrlo en 2004 y 2005 y cortar una sequía de títulos internacionales de 18 años. En el banquillo rival, el Atlético Mineiro de Eduardo Domínguez cargaba con el peso de haber perdido la final de la edición pasada ante Lanús y con la urgencia de sumar por fin la copa a su vitrina.</p>
+	  <p>Con esa carga sobre los hombros comenzó a rodar el balón. Desde los primeros minutos, el conjunto dirigido por Rodolfo Arruabarrena marcó el pulso con la posesión, la circulación en la mitad de la cancha y la profundidad por la banda izquierda. Antes de los dos minutos, Miguel Merentiel ya había avisado estrellando un remate en el travesaño tras un rebote que se le escapó al arquero Éverson.</p>
+	  <p>El primer tanto de la tarde llegó al comienzo del partido. Al minuto 12, a Santiago Ascacibar le anularon un gol por fuera de juego, pero apenas tres minutos después capturó un rebote dentro del área tras un remate de Tomás Aranda y sacó el derechazo para el 1-0 y conseguir la ventaja para el xeneize. El conjunto brasileño intentó responder y antes del descanso el arquero Éverson evitó el segundo ante un cabezazo de Lautaro Di Lollo.</p>
+	  <p>Para el complemento, el director técnico Eduardo Domínguez movió la cancha con tres cambios, pero Boca golpeó de inmediato. A solo dos minutos de haber iniciado el segundo tiempo, el colombiano Sebastián Villa ganó por la banda izquierda y envió un centro rasante para que el delantero Miguel Merentiel definiera y pusiera el 2-0 definitivo.</p>
+	  <p>Con dos goles de ventaja, el equipo argentino administró el ritmo, rotó piezas con frescura y contó con un Álvaro Montero seguro bajo los tres palos para cerrar el partido sin sobresaltos. Con el pitazo final en Barranquilla, Boca Juniors levantó su tercera corona continental y selló una tarde histórica en Colombia.</p>
+	  <p><strong>Las voces tras la final</strong></p>
+	  <p>Tras el triunfo, el entrenador campeón Rodolfo Arruabarrena destacó el valor del título para toda la institución: “El club lo necesitaba. El hincha lo necesitaba. Los jugadores lo necesitábamos, todos lo necesitábamos, después de 18 años. Es una base importante para lo que viene. Es mérito exclusivo de los jugadores”. Además, dejó en claro que el grupo no se conformará y seguirá insistiendo para conseguir más alegrías.</p>
+	  <p>Asimismo, el capitán argentino Leandro Paredes puso en palabras la carga emocional de regresar y coronar con la gente: “Es lo más importante, sin duda, por lo que significa para mí este club, por lo que significa volver a ganar un título internacional después de mucho tiempo, por todo el esfuerzo que hicimos. La verdad que estoy feliz, orgulloso de ser parte de este grupo”.</p>
+	  <p>En la otra cara de la moneda, Eduardo Domínguez apuntó a la falta de soltura inicial de su equipo y al golpe que tuvo encajar el segundo gol apenas reanudado el juego: “Más allá de que nos hicieron un gol de pelota parada, desde afuera daba la sensación de que nuestro equipo entró tensionado, nervioso, y ellos jugaron natural”.</p>
+	  <p>Así se cerró una final decisiva en Barranquilla, donde Boca Juniors rompió su espera internacional con autoridad, administró los tiempos clave y confirmó que la contundencia en los momentos justos marca la diferencia en las grandes noches continentales.</p>
+
+	       image:
+		   date: "21  de noviembre, 2026"
+		   feautured: true
+	  
+	 
 
 ];  
 
