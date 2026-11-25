@@ -454,7 +454,7 @@ const NEWS = [
 	       image:"https://www.lanacion.com.ar/resizer/v2/boca-campeon-de-la-copa-sudamericana-el-equipo-4WKD5V3QCNEHLBMZMTB6FBMJK4.JPG?auth=ba1e3d7fc2c62093266fd23d17f36ed9bc0641dd0f79e705598c1952b3677739&width=1200&height=900&quality=70&smart=true",
 		   date: "21  de noviembre, 2026",
 		   feautured: true,
-	  
+	  },
 	 
 
 ];  
