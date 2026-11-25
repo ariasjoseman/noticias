@@ -240,6 +240,13 @@ const NEWS = [
 	excerpt: "Los mejores gamers de Venezuela disputaron en Caracas la final de eSports de la LVBP en MLB The Show",
 	body: `<p>Las instalaciones del Xtreme Arena en la ciudad de Caracas, albergaron la gran final del torneo de los eSports de la Liga Venezolana de Beisbol Profesional (LVBP), por cuarto año consecutivo.</p>
 	<p>El sábado 12 de septiembre, los mejores gamers del juego MLB The Show en el país, utilizando una adaptación de la pelota criolla, midieron fuerzas para definir al nuevo rey del beisbol virtual.</p>
+	<a href="https://www.instagram.com/reel/DdRTVxdMbUw/?utm_source=ig_web_copy_link&dmpr=NTc4MTIwNjQ2YQ==" target="_blank" class="preview-card">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSU_ljZBwj7w3_W7lmCvpxoXPw2V9Bb07Dld1et2AL31g&s=10" alt="Imagen de preview" class="preview-img">
+    <div class="preview-content">
+    <h3 class="preview-title">La gran final de los eSports de la LVBP se disputó en Caracas</h3>
+    <span class="preview-url">Los mejores gamers de Venezuela disputaron en Caracas la final de eSports de la LVBP en MLB The Show</span>
+    </div>
+    </a>
 	<p>Winder Lugo, CEO de Venezuela The Show, expresó cómo surgió la idea del modo de juego: “Este proyecto nació del sueño de jugar con nuestros equipos venezolanos en las consolas”. Agregó que el, junto a su equipo de trabajo, duran de tres a cuatro meses para crear entre setenta y setenta y cinco jugadores desde cero, permitiendo que incluso venezolanos en el extranjero puedan conectar y representar a sus equipos.</p>
 	<p>En el evento estuvieron tanto participantes experimentados como promesas emergentes. Albert Guevara, bicampeón de certámenes anteriores, destacó la competitividad de este año: “El nivel de esta edición fue altísimo. Enfrentar a jugadores que practican todo el año para ganar el primer lugar demuestra lo mucho que ha crecido la comunidad gamer en el país”.</p>
 	<p>Además, habló de lo importante que es la competencia para él, logrando en parte, cumplir su aspiración de llegar a ser un beisbolista profesional y portar la camiseta de su equipo favorito.</p>
