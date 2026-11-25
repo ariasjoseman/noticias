@@ -265,7 +265,7 @@ const NEWS = [
     <p>Bajo el trabajo, el compromiso y la calidad, la Perla do Atlántico y sus panes han sido parte de muchas cenas y momentos importantes para las personas, convirtiéndose parte de esta rica tradición culinaria.</p>
     <p>Para los fanáticos de la comida callejera, saber que un pepito está elaborado con un pan de “La Perla” es señal de garantía, debido a ser crujiente por fuera y suave por dentro, no desarmarse con el relleno y su combinación con las salsas. Todo junto es totalmente recomendado.</p>`,
 
-      image: "",
+      image: "panaderia.jpeg",
 	  date:"24 de septiembre, 2026",
       featured: false
      },
@@ -326,7 +326,7 @@ const NEWS = [
 	  <p>Asimismo, el mánager de Cardenales, Cesar Isturiz, destacó la actitud del grupo dentro del campo, quienes demostraron madurez en un primer juego que eleva las emociones.</p>
 	  <p>De esta manera, el nido barquisimetano celebró la primera conquista de la temporada en una noche donde el carácter y el bateo oportuno marcaron la diferencia. Cardenales de Lara inicia la temporada de la mejor manera, demostrando desde el primer juego las credenciales para pelear el título.</p>`,
 
-        image:,
+        image:"Cardenales.jpeg",
 		date:"15 de octubre, 2026",
 		feautured: false
 	   },
@@ -392,7 +392,7 @@ const NEWS = [
 	  <p>“Ver que muchachos como Daniel hoy están enseñando, abriendo caminos y regalándole oportunidades a las nuevas generaciones me llena de una felicidad inmensa”, destacó Nieves.</p>
       <p>Con el concierto terminado, los asistentes se fueron despidiendo entre abrazos y fotografías. La mañana en Colegio 19 de abril demostró que el legado no es solo un recuerdo, sino algo que se contagia, y mientras haya profesores dispuestos a enseñar y jóvenes con ganas de tocar, la guitarra seguirá sonando fuerte en cada rincón de la ciudad.</p>`,
 
-	       image:,
+	       image:"CONCCIERTO.jpeg",
 		   date:"5 de noviembre, 2026",
 	       feautured: false
 	      },
@@ -429,7 +429,7 @@ const NEWS = [
 	  <p>Lo verídico de este mensaje es la entrega de kits escolares a los colegios de la región. La institución ha publicado en sus redes sociales imágenes sobre sus donaciones a las escuelas; Raquel Monasterio y la Unidad Educativa Escuela Juarez.</p>
 	  <p>Este mensaje ha sido compartido con la intención de engañar al pueblo larense, dejando una mala imagen a las instituciones encargadas de realizar las actividades de apoyo.</p>`,
 
-	       image:,
+	       image:"IMJUVI.jpeg",
 		   date: "19 de noviembre, 2026",
 	       feautured: false ,
 	       },
