@@ -261,6 +261,13 @@ const NEWS = [
     <p>A partir de esa creación, la medida se consolidó en la ciudad como la dimensión perfecta para elaborar un pepito guaro, cambiando para siempre la gastronomía Larense.</p>
     <p>Bryan Loyo, panadero de la Perla do Atlántico, detalla que el proceso arranca a las 6:30 de la mañana, con cuatro horas de leudado y fermentación, finalizando al mediodía para abastecer los negocios nocturnos a tiempo.</p>
     <p>“El secreto es hacer todo al pie de la letra, mantener la materia prima al día y hornear el tiempo adecuado”, afirma el artesano.</p>
+	<a href="https://www.instagram.com/reel/DNjrVnTtuNu/?utm_source=ig_web_copy_link&lqvp=MzRlODBiNWFlZA==&avpt=MzRlODBiNWFlZA==" target="_blank" class="preview-card">
+    <img src="panaderia.jpeg" alt="Imagen de preview" class="preview-img">
+    <div class="preview-content">
+    <h3 class="preview-title">Panaderia Perla do Atlantico.</h3>
+    <span class="preview-url">Panaderia Perla do Atlantico en Instagram</span>
+    </div>
+    </a>
     <p>A lo largo de las décadas, por sus hornos han pasado marcas como El Gordo Alex, Joao Burguer, Tatos Street Food y Sofia Burguer, afianzándose como el sello por excelencia del platillo barquisimetano.</p>
     <p>Bajo el trabajo, el compromiso y la calidad, la Perla do Atlántico y sus panes han sido parte de muchas cenas y momentos importantes para las personas, convirtiéndose parte de esta rica tradición culinaria.</p>
     <p>Para los fanáticos de la comida callejera, saber que un pepito está elaborado con un pan de “La Perla” es señal de garantía, debido a ser crujiente por fuera y suave por dentro, no desarmarse con el relleno y su combinación con las salsas. Todo junto es totalmente recomendado.</p>`,
@@ -279,6 +286,13 @@ const NEWS = [
 	 <p>Un Domo que de principio a fin se encontró abarrotado por el aliento del publico venezolano, apoyando con todo a su selección.</p>
 	 <p>Desde el minuto uno, la selección brasileña demostró su superioridad pegando su primer gol al poco tiempo de comenzar. Venezuela se mantuvo defendiendo casi todo el partido, realzando la figura de su arquera Michell Tirado, quien detuvo una gran cantidad de disparos brasileños, convirtiéndose en la jugadora más valiosa de la cancha.</p>
 	 <p>Ya en los instantes finales de la prórroga, la Canarinha logró encajar dos goles, llevándose la victoria y el campeonato.</p>
+    <a href="https://www.instagram.com/reel/Ddk1BsqJmzM/?utm_source=ig_web_copy_link&hvrq=MzRlODBiNWFlZA==&avpt=MzRlODBiNWFlZA==" target="_blank" class="preview-card">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSu_uBkQKuRKov8X1bOSf4p39HHLmeLcWFxBChBco66Ap4P9yZ4bwhcDA7w&s=10" alt="Imagen de preview" class="preview-img">
+    <div class="preview-content">
+    <h3 class="preview-title">Final sudamericano sub-20.</h3>
+    <span class="preview-url">Brasil vence en prórroga a Venezuela y conquista el Sudamericano Sub-20 femenino</span>
+    </div>
+    </a>
 	 <p>“Orgulloso de las muchachas por el trabajo y la entrega que hicieron para llegar a estas instancias definitivas. A pesar del corto tiempo de trabajo que tuvimos, la selección va a seguir trabajando, va a seguir luchando para prepararse mejor”, comentó Mike Guerra, entrenador de la selección venezolana.</p>
 	 <p>Por el lado de Brasil, llegó a la final de manera invicta, logrando por quinta vez la final de la competición luego de derrotar a Colombia en las semifinales. Mientras que el camino de Venezuela comenzó con tres victorias y una derrota ante la misma selección de Brasil, y tras derrotar a Argentina en las semis, alcanzó el tan ansiado partido.</p>
 	 <p>La Vinotinto finalizó el torneo con resultado histórico, siendo la primera vez que consiguen el subcampeonato, dejando un legado para el recuerdo.</p>`,
