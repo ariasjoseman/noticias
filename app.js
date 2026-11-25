@@ -313,6 +313,13 @@ const NEWS = [
 	 <p><strong>Objetivos de la actividad</strong></p>
 	 <p>La propuesta de nuevas actividades resulta atractiva para el público. El presbítero Jesús Alberto Ramírez, vocero de la comisión organizadora, destacó el objetivo del encuentro: “El FestiFe será un espacio de comunión que incluirá la celebración de la eucaristía, conferencias, presentaciones musicales y la Expo Pastorales para mostrar el trabajo que realiza la Iglesia en Lara.</p>
 	 <p>Por su parte, el arzobispo de Barquisimeto, Monseñor Polito Rodríguez Méndez, señaló que la meta económica responde a una necesidad urgente de la Arquidiócesis de Barquisimeto dejando en claro un profundo sentido de responsabilidad social. Explicó que el mayor valor de esta iniciativa no está en el premio material, sino en asegurar la formación de los jóvenes en el Seminario y garantizar el sostenimiento de las distintas parroquias del estado.</p>
+	 <a href="https:https://www.instagram.com/reel/DeKtKnWpZEK/?utm_source=ig_web_copy_link&lqvp=MzRlODBiNWFlZA==&avpt=MzRlODBiNWFlZA==" target="_blank" class="preview-card">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMrNCS2eFlcOohlaEYadp5brq9MOKgIF-wbEVjXdMS3OUBNVlf2tQ8FeQr&s=10" alt="Imagen de preview" class="preview-img">
+    <div class="preview-content">
+    <h3 class="preview-title">FestiFe-2026</h3>
+    <span class="preview-url">Arquidiócesis de Barquisimeto prepara el FestiFe 2026 y su primera carrera 7K</span>
+    </div>
+    </a>
 	 <p><strong>Puntos para tener en cuenta</strong></p>
 	 <p>Sin embargo, uno de los desafíos principales de esta actividad es el precio de los boletos. Con un costo de diez dólares, el valor del bono se convierte en una disyuntiva para el larense común, considerando la realidad financiera actual. No obstante, la organización busca equilibrar la balanza mediante un atractivo costo-beneficio, debido a la cantidad de premios que hay como un auto cero kilómetros, motocicletas, artefactos electrónicos y a la ayuda que se realiza al seminario.</p>
 	 <p>Para quienes evalúen su participación, la recomendación es abordar el evento desde una perspectiva de apoyo comunitario. Si el presupuesto lo permite, adquirir el bono en las parroquias es una inversión social justificada, de lo contrario se aconseja no aislarse y sumarse de igual forma a la carrera matutina como un gratuito de reencuentro ciudadano.</p>
@@ -354,6 +361,13 @@ const NEWS = [
 	  <p>Este reconocimiento entregado por La Academia Latina de la Grabación, el 17 de septiembre postuló a la producción Opus 33 – Romantic Cello en la categoría de Mejor Álbum de Música Clásica.</p>
 	  <p>Aunque el guaro es el musico principal y el protagonista absoluto del disco, obtuvo la ayuda de la London Symphony Orchestra, una organización ubicada en Londres y que es una de las orquestas sinfónicas mas famosas, prestigiosas y antiguas del mundo. Además, en el proyecto estuvo trabajando el maestro y percusionista español Josep Vicent, quien fue el encargado de dirigir a la agrupación británica en los estudios Abbey Road.</p>
 	  <p>El repertorio seleccionado para realizar esta obra reúne algunas de las composiciones más exigentes del romanticismo clásico, destacando las célebres piezas inspiradas en el estilo rococó de Pyotr Ilyich Tchaikovsky y el concierto para violonchelo número 1 en La menor de Camille Saint-Saens. Ambas páginas son reconocidas en la literatura musical por combinar una intensa carga dramática con una exigente destreza técnica.</p>
+	  <a href="https://talcualdigital.com/fuera-de-agenda/entrevista-gregorio-nieto-al-latin-grammy-con-opus-33/" target="_blank" class="preview-card">
+    <img src="https://talcualdigital.com/wp-content/uploads/2026/11/Opus-33-albm-cover.jpg" alt="Imagen de preview" class="preview-img">
+    <div class="preview-content">
+    <h3 class="preview-title">Gregorio Nieto</h3>
+    <span class="preview-url">El violonchelista barquisimetano nominado a los Latin Grammy</span>
+    </div>
+    </a>
 	  <p><strong>Reacción y proyección internacional</strong></p>
 	  <p>Tras la noticia de su postulación, Nieto expresó su emoción por esta meta alcanzada: “Esta primera nominación al Latin Grammy representa una alegría inmensa y una experiencia profundamente emotiva. Haber materializado este proyecto me impulsa a seguir llevando nuestra voz interpretativa al mundo”.</p>
 	  <p>El músico explicó a la prensa que haber concretado esta meta con el conjunto inglés confirma el alto nivel técnico de los profesionales formados en el país. Afirma que este logro demuestra que la música de tradición académica hecha en Venezuela tiene las herramientas para competir al más alto nivel.</p>
