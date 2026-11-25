@@ -245,7 +245,7 @@ const NEWS = [
 	<p>Además, habló de lo importante que es la competencia para él, logrando en parte, cumplir su aspiración de llegar a ser un beisbolista profesional y portar la camiseta de su equipo favorito.</p>
 	<p>Esta competición creada por VZLA The Show y organizada por la LVBP, reafirma el poderío que tienen los deportes electrónicos y la alianza entre el beisbol tradicional y los videojuegos en Venezuela.</p>`,
 
-	  image: "",
+	  image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSU_ljZBwj7w3_W7lmCvpxoXPw2V9Bb07Dld1et2AL31g&s=10",
 	  date: "12 de septiembre, 2026",
 	  featured: false
 	},
@@ -283,7 +283,7 @@ const NEWS = [
 	 <p>Por el lado de Brasil, llegó a la final de manera invicta, logrando por quinta vez la final de la competición luego de derrotar a Colombia en las semifinales. Mientras que el camino de Venezuela comenzó con tres victorias y una derrota ante la misma selección de Brasil, y tras derrotar a Argentina en las semis, alcanzó el tan ansiado partido.</p>
 	 <p>La Vinotinto finalizó el torneo con resultado histórico, siendo la primera vez que consiguen el subcampeonato, dejando un legado para el recuerdo.</p>`,
 
-	   image:,
+	   image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSu_uBkQKuRKov8X1bOSf4p39HHLmeLcWFxBChBco66Ap4P9yZ4bwhcDA7w&s=10",
 	   date:"20 de septiembre, 2026",
 	   feautured: false
 	  },
@@ -304,7 +304,7 @@ const NEWS = [
 	 <p>Para quienes evalúen su participación, la recomendación es abordar el evento desde una perspectiva de apoyo comunitario. Si el presupuesto lo permite, adquirir el bono en las parroquias es una inversión social justificada, de lo contrario se aconseja no aislarse y sumarse de igual forma a la carrera matutina como un gratuito de reencuentro ciudadano.</p>
 	 <p>Sumado a esto, ayuda a los negocios de productos religiosos a darse a conocer, sea un emprendimiento grande o uno que apenas está comenzando, elevando así su exposición. Con los conferencistas y la eucaristía, el público puede aprender un poco más de la palabra y acercarse al camino de Dios. Este FestiFe promete ser un evento para elevar la fe, la solidaridad y la ayuda al prójimo llegando a ser un acto de caridad para las parroquias y para todos los católicos.	 `,
 
-		image:,
+		image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMrNCS2eFlcOohlaEYadp5brq9MOKgIF-wbEVjXdMS3OUBNVlf2tQ8FeQr&s=10",
 	    date:"8 de octubre, 2026",
 	    feautured: false
 	  },
@@ -348,7 +348,7 @@ const NEWS = [
 	  <p>Los ganadores de esta entrega de premios se darán a conocer el próximo 14 de noviembre en el Kaseya Center de Miami. Dentro del reglón dedicado a la música clásica, la producción compartirá casilla con propuestas de alto calibre global como Fandango de la Filarmónica de Los Ángeles bajo la dirección de Gustavo Dudamel, Aire, Aire… No Puedo Respirar interpretado por la Sinfónica Nacional de Colombia, Credo de la Filarmónica de Guayaquil y el trabajo solista del pianista Jorge Meza.</p>
 	  <p>Para quienes disfrutan de una buena melodía y del sonido instrumental, este proyecto es una recomendación obligatoria. La obra está disponible en las principales plataformas digitales, ofreciendo una gran oportunidad para escuchar una interpretación llena de emoción, elegancia y muchísima calidad.</p>`,
 
-	     image:,
+	     image:"https://talcualdigital.com/wp-content/uploads/2026/11/Opus-33-albm-cover.jpg",
 		 date:"22 de octubre, 2026",
 	     feautured: false
 	    },
@@ -367,7 +367,7 @@ const NEWS = [
 	  <p>El desplome del ingreso castiga sin piedad a los educadores. Oscar Padilla, un profesor jubilado de 75 años y con 25 años de trayectoria en la UPEL, recuerda cuando la profesión garantizaba estabilidad: “Uno en aquel tiempo tenia buen estatus social, una caja de ahorro y yo por lo menos compré dos apartamentos y camionetas. Ahora la vida me cambió tanto, la pensión de 130 bolívares y los bonos fraccionados no alcanzan para la dieta básica ni los medicamentos. Terminamos dependiendo de nuestras familias”, comentó el educador.</p>
 	  <p>La realidad en Lara deja claro que las bonificaciones de fin de mes no alcanzan para frenar de golpe ni evitan que la gente termine vendiendo en la calle para sobrevivir. Mientras los maestros y trabajadores siguen protestando por un aumento en la paga que valga la pena, en el día a día de los larenses no queda de otra que ingeniarse estrategias de venta por cuenta propia y así no quedarse con los bolsillos vacíos.</p>`,
 	  
-          image:,
+          image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQik6DIgujW0kYOEpAsjSbsf-AAgwTNdSeQY5VpomD5VjjR2dMs842RYec&s=10",
 		  date:"29 de octubre,2026",
 		  feautured: false,
          },
@@ -411,7 +411,7 @@ const NEWS = [
 	  <p>Para quienes deseen disfrutar de una tarde cargada de música, entretenimiento y energía estudiantil, la Novia UNY se presenta como una cita imperdible dentro de la agenda cultural de la ciudad. El espectáculo resulta ideal tanto para la comunidad universitaria como para familiares y público general que busque apreciar el talento artístico local en un ambiente cercano y participativo.</p>
 	  <p>Si planea asistir a futuras ediciones de este encuentro en el, lo más recomendable es llegar con suficiente antelación, debido a que las gradas suelen llenarse antes de la hora pautada. De igual forma, acudir acompañado de familiares o amigos permitirá sumarse con mayor entusiasmo a la dinámica de barras que caracteriza a esta gala.</p>`,
 
-	       image:,
+	       image:"https://notilara.com/wp-content/uploads/2026/11/photo_2026-11-16_23-29-02.jpg",
 		   date: "12 de noviembre, 2026",
 		   feautured: false
 		  },
@@ -451,7 +451,7 @@ const NEWS = [
 	  <p>En la otra cara de la moneda, Eduardo Domínguez apuntó a la falta de soltura inicial de su equipo y al golpe que tuvo encajar el segundo gol apenas reanudado el juego: “Más allá de que nos hicieron un gol de pelota parada, desde afuera daba la sensación de que nuestro equipo entró tensionado, nervioso, y ellos jugaron natural”.</p>
 	  <p>Así se cerró una final decisiva en Barranquilla, donde Boca Juniors rompió su espera internacional con autoridad, administró los tiempos clave y confirmó que la contundencia en los momentos justos marca la diferencia en las grandes noches continentales.</p>`,
 
-	       image:,
+	       image:"https://www.lanacion.com.ar/resizer/v2/boca-campeon-de-la-copa-sudamericana-el-equipo-4WKD5V3QCNEHLBMZMTB6FBMJK4.JPG?auth=ba1e3d7fc2c62093266fd23d17f36ed9bc0641dd0f79e705598c1952b3677739&width=1200&height=900&quality=70&smart=true",
 		   date: "21  de noviembre, 2026",
 		   feautured: true,
 	  
