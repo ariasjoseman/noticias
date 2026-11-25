@@ -484,6 +484,7 @@ const NEWS = [
 	  <p>En la otra cara de la moneda, Eduardo Domínguez apuntó a la falta de soltura inicial de su equipo y al golpe que tuvo encajar el segundo gol apenas reanudado el juego: “Más allá de que nos hicieron un gol de pelota parada, desde afuera daba la sensación de que nuestro equipo entró tensionado, nervioso, y ellos jugaron natural”.</p>
 	  <p>Así se cerró una final decisiva en Barranquilla, donde Boca Juniors rompió su espera internacional con autoridad, administró los tiempos clave y confirmó que la contundencia en los momentos justos marca la diferencia en las grandes noches continentales.</p>
 	   <a href="https://www.youtube.com/shorts/KKs8h1nncA4?feature=share" target="_blank" class="preview-card">
+	     <img src="https://www.lanacion.com.ar/resizer/v2/boca-campeon-de-la-copa-sudamericana-el-equipo-4WKD5V3QCNEHLBMZMTB6FBMJK4.JPG?auth=ba1e3d7fc2c62093266fd23d17f36ed9bc0641dd0f79e705598c1952b3677739&width=1200&height=900&quality=70&smart=true" alt="Imagen de preview" class="preview-img">
     <div class="preview-content">
     <h3 class="preview-title">Victoria Historica</h3>
     <span class="preview-url">Boca Juniors derrotó 2-0 a Atlético Mineiro en Barranquilla y cortó 18 años sin títulos internacionales.</span>
