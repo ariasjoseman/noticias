@@ -416,8 +416,6 @@ const NEWS = [
 		   feautured: false
 		  },
  {
-  //   ESTA ES LA QUE HAY QUE CREAR UNA NUEVA SECCION LLAMADA AL DESCUBIERTO, TRATA DE INFORMACIONES FALSAS
-	// SI TIENES OTRA PROPUESTA PARA EL NOMBRE, ADELANTE 
 	  id:19,
 	  slug:"IMMJUVI-rumor",
 	  category: "Al Descubierto",
