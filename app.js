@@ -235,7 +235,7 @@ const NEWS = [
 {
 	id:10,
 	slug:"eSports-2026",
-	category: "deportes",
+	category: "Deportes",
 	title:"La gran final de los eSports de la LVBP se disputó en Caracas",
 	excerpt: "Los mejores gamers de Venezuela disputaron en Caracas la final de eSports de la LVBP en MLB The Show",
 	body: `<p>Las instalaciones del Xtreme Arena en la ciudad de Caracas, albergaron la gran final del torneo de los eSports de la Liga Venezolana de Beisbol Profesional (LVBP), por cuarto año consecutivo.</p>
@@ -285,7 +285,7 @@ const NEWS = [
 
 	   image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSu_uBkQKuRKov8X1bOSf4p39HHLmeLcWFxBChBco66Ap4P9yZ4bwhcDA7w&s=10",
 	   date:"20 de septiembre, 2026",
-	   feautured: false
+	   featured: false
 	  },
 
 {
@@ -306,12 +306,12 @@ const NEWS = [
 
 		image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMrNCS2eFlcOohlaEYadp5brq9MOKgIF-wbEVjXdMS3OUBNVlf2tQ8FeQr&s=10",
 	    date:"8 de octubre, 2026",
-	    feautured: false
+	    featured: false
 	  },
  {
 	  id:14,
 	  slug:"Remontada-de-cardenales",
-	  category:"deportes",
+	  category:"Deportes",
 	  title:"Remontada de Cardenales ante bravos en su primer juego de la LVBP",
 	  excerpt:"Cardenales de Lara remontó en la novena entrada para vencer 4-3 a Bravos de Margarita en el inicio de la LVBP",
 	  body:`<p>Este 14 de octubre, los Cardenales de Lara comenzaron su primer juego de la temporada 2026/27 de la Liga Venezolana de Béisbol Profesional (LVBP) con una remontada en el juego ante los Bravos de Margarita por un resultado final de cuatro a tres. En un Estadio Antonio Herrera Gutiérrez de Barquisimeto con mas de 12.000 fanáticos alentando a su equipo, la novena larense logro llevarse el juego en la ultima entrada.</p>
@@ -328,12 +328,12 @@ const NEWS = [
 
         image:"Cardenales.jpeg",
 		date:"15 de octubre, 2026",
-		feautured: false
+		featured: false
 	   },
  {   
       id:15,
 	  slug:"Gregorio-nieto-violonchelista",
-	  category:"cultura",
+	  category:"Cultura",
 	  title:"Gregorio Nieto: el violonchelista barquisimetano nominado a los Latin Grammy",
 	  excerpt:"El violonchelista barquisimetano Gregorio Nieto logra su primera nominación al Latin Grammy",
 	  body:`<p>La gran creación artística y musical del estado Lara ha alcanzado un nuevo hito internacional. El violonchelista barquisimetano Gregorio Nieto fue nominado a la vigesimoséptima edición de los premios Latin Grammy.</p>
@@ -350,7 +350,7 @@ const NEWS = [
 
 	     image:"https://talcualdigital.com/wp-content/uploads/2026/11/Opus-33-albm-cover.jpg",
 		 date:"22 de octubre, 2026",
-	     feautured: false
+	     featured: false
 	    },
  {	 
 	  id:16,
@@ -369,7 +369,7 @@ const NEWS = [
 	  
           image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQik6DIgujW0kYOEpAsjSbsf-AAgwTNdSeQY5VpomD5VjjR2dMs842RYec&s=10",
 		  date:"29 de octubre,2026",
-		  feautured: false,
+		  featured: false,
          },
  {	 
       id:17,
@@ -394,12 +394,12 @@ const NEWS = [
 
 	       image:"CONCCIERTO.jpeg",
 		   date:"5 de noviembre, 2026",
-	       feautured: false
+	       featured: false
 	      },
   {
 	  id:18,
 	  slug:"Novia-UNY",
-	  category:"cultura",
+	  category:"Cultura",
 	  title:"Nathaly Rodríguez se coronó como la nueva Novia UNY 2026",
 	  excerpt:"Nathaly Rodríguez, de Ingeniería Industrial, se coronó como la nueva Novia de la UNY 2026.",
 	  body:`<p>El lunes 9 de noviembre se celebró la coronación de la Novia UNY, una ceremonia marcada por la elegancia, el talento y un profundo sentimiento de pertenencia hacia la Universidad Yacambú. El evento, realizado en el Salón Libertador de la sede Mora I en Cabudare, culminó con el triunfo de la bachiller Nathaly Rodríguez, representante de Ingeniería Industrial, como la nueva reina de la institución.</p>
@@ -413,7 +413,7 @@ const NEWS = [
 
 	       image:"https://notilara.com/wp-content/uploads/2026/11/photo_2026-11-16_23-29-02.jpg",
 		   date: "12 de noviembre, 2026",
-		   feautured: false
+		   featured: false
 		  },
  {
 	  id:19,
@@ -429,14 +429,14 @@ const NEWS = [
 
 	       image:"IMJUVI.jpeg",
 		   date: "19 de noviembre, 2026",
-	       feautured: false ,
+	       featured: false ,
 	       },
  {
 	  id:20,
 	  slug:"Boca-campeón",
 	  category:"deportes",
 	  title:"Boca Juniors vence 2-0 a Atletico Mineiro y gana la Sudamericana 2026",
-	  excerp:"Boca Juniors derrotó 2-0 a Atlético Mineiro en Barranquilla y cortó 18 años sin títulos internacionales.",
+	  excerpt:"Boca Juniors derrotó 2-0 a Atlético Mineiro en Barranquilla y cortó 18 años sin títulos internacionales.",
 	  body:`<p>El calor caribeño pesaba sobre Barranquilla mientras miles de aficionados colmaban los alrededores del Estadio Metropolitano Roberto Meléndez. El escenario recibía por primera vez una final única de un torneo continental, y el contraste en las tribunas era evidente. El empuje brasileño del Atlético Mineiro tenía enfrente a la mística y el volumen de la hinchada de Boca Juniors.</p>
 	  <p>El duelo, disputado el sábado 21 de noviembre por el campeonato de la CONMEBOL Sudamericana 2026, enfrentaba dos realidades muy marcadas. Boca Juniors llegaba con la ambición de conquistar su tercer trofeo tras lograrlo en 2004 y 2005 y cortar una sequía de títulos internacionales de 18 años. En el banquillo rival, el Atlético Mineiro de Eduardo Domínguez cargaba con el peso de haber perdido la final de la edición pasada ante Lanús y con la urgencia de sumar por fin la copa a su vitrina.</p>
 	  <p>Con esa carga sobre los hombros comenzó a rodar el balón. Desde los primeros minutos, el conjunto dirigido por Rodolfo Arruabarrena marcó el pulso con la posesión, la circulación en la mitad de la cancha y la profundidad por la banda izquierda. Antes de los dos minutos, Miguel Merentiel ya había avisado estrellando un remate en el travesaño tras un rebote que se le escapó al arquero Éverson.</p>
@@ -451,7 +451,7 @@ const NEWS = [
 
 	       image:"https://www.lanacion.com.ar/resizer/v2/boca-campeon-de-la-copa-sudamericana-el-equipo-4WKD5V3QCNEHLBMZMTB6FBMJK4.JPG?auth=ba1e3d7fc2c62093266fd23d17f36ed9bc0641dd0f79e705598c1952b3677739&width=1200&height=900&quality=70&smart=true",
 		   date: "21  de noviembre, 2026",
-		   feautured: true,
+		   featured: true,
 	  },
 	 
 
